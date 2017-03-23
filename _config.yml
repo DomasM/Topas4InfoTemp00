@@ -1,0 +1,12 @@
+# Site Settings
+title: Topas4 info page
+description: >
+  Topas4 info page
+baseurl: "/Topas4Info"
+url: "http://domasm.github.io"
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
