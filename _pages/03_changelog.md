@@ -16,6 +16,20 @@ permalink: /changelog/
 * (FN)-Fixed new: describes correct behavior after bug fix
 * (FO)-Fixed old: describes wrong behavior before bug fix
 
+
+## 0.7.3 (2017-03-27)
+
+
+### New features
+
+1. Add link to [Topas4 info page](https://domasm.github.io/Topas4Info/) in three different locations
+
+### Changed behaviors
+
+1. Beautified local (per device) API help pages, add more info to some methods
+
+
+
 ## 0.4.12 (2017-02-13) ---> 0.7.2 (2017-03-13)
 
 ### Fixes
