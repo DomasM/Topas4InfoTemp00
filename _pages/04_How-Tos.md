@@ -5,7 +5,7 @@ permalink: /How-Tos/
 ---
 
 ### <a name="Vid001"></a> How to add a new group to saved motors positions
-<button class="btn" data-clipboard-text="{{ page.url | append: #Vid001}}">
+<button class="btn" data-clipboard-text="{{fullUrl}}{{page.url}}#Vid001">
     Copy address to this how-to
 </button>
 <video  controls="controls">

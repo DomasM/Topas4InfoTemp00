@@ -4,6 +4,7 @@ description: >
   Topas4 info page
 baseurl: "/Topas4Info"
 url: "http://domasm.github.io"
+fullUrl: "http://domasm.github.io/Topas4Info"
 # Build Settings
 sass:
   sass_dir: _sass
