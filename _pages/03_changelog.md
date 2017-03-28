@@ -17,8 +17,20 @@ permalink: /changelog/
 * (FO)-Fixed old: describes wrong behavior before bug fix
 
 
-## 0.7.3 (2017-03-27)
+## 0.7.4 (2017-03-28)
 
+### New features
+
+1. (C) Add buttons "delete current configuration" to optical and separation configurations
+
+### Changed behaviors
+
+1. (C) Change calibration motor curve offset control to indicator, add two new buttons : "Set offset" and "Shift curve to make offset zero". "Add current offset" button renamed to "Shift curve by current diff".
+1. (C) Calibration motor curve points are always auto-ordered by wavelength, user can't reorder
+
+
+
+## 0.7.3 (2017-03-27)
 
 ### New features
 
