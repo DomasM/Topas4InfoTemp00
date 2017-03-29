@@ -39,7 +39,7 @@ permalink: /How-Tos/
     Copy address to this how-to
 </button>
 <video  controls="controls">
-<source src="https://www.dropbox.com/s/14hg5tdq7hcvvoy/HowToUserSmoothScanner.webm?dl=1" type="video/mp4" />
+<source src="https://www.dropbox.com/s/2dfh3g3cn7zvqs1/HowToUserSmoothScanner.mp4?dl=1" type="video/mp4" />
 </video>
 
 
