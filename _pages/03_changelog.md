@@ -15,6 +15,27 @@ permalink: /changelog/
 * (S)-Server (Topas4 Server): applies only to server application
 * (FN)-Fixed new: describes correct behavior after bug fix
 * (FO)-Fixed old: describes wrong behavior before bug fix
+* beta : auto-updates activate only for PCs in Light Conversion local area network
+
+
+## 0.8.1 (2017-04-11) (beta)
+
+### Fixes
+
+1. (C)(FN) Web page for mobile clients is hosted using port RestPort+2 instead of port 80 to avoid clashes with others applications (Skype etc)
+2. (S) Output metrics collector for Application Insights does not try to make sense of device state if motors are not available
+
+
+## 0.8.0 (2017-04-10) (beta)
+
+### New features
+
+1. Application Insights
+
+### Fixes
+
+1. (C)(FO) CMP-SIG template in Create/modify interaction tab uses SIG as mapping wavelength mapping function
+2. (C)(FO) Saved motors positions list in single device tab does not show vertical scrollbar if there isn't enough space
 
 
 ## 0.7.4 (2017-03-28)
