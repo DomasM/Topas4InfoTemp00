@@ -15,7 +15,7 @@ permalink: /changelog/
 * (S)-Server (Topas4 Server): applies only to server application
 * (FN)-Fixed new: describes correct behavior after bug fix
 * (FO)-Fixed old: describes wrong behavior before bug fix
-* beta : auto-updates activate only for PCs in Light Conversion local area network
+* beta : auto-updates active only for PCs in Light Conversion local area network
 
 
 ## 0.8.1 (2017-04-11) (beta)
