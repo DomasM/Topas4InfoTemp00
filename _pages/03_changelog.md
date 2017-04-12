@@ -18,6 +18,17 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 0.8.2 (2017-04-12) (beta)
+
+### Fixes
+
+1. Various fixes/format changes in sent telemetry data
+
+### New features
+
+1. (C) User can send feedback straight from WinTopas4 application (if server seems reachable)
+
+
 ## 0.8.1 (2017-04-11) (beta)
 
 ### Fixes
