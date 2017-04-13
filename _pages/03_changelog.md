@@ -18,7 +18,7 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
-## 0.8.3 (2017-04-13) 
+## 0.8.3 (2017-04-13) (beta)
 
 ### Fixes
 
