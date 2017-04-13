@@ -18,6 +18,15 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 0.8.3 (2017-04-13) 
+
+### Fixes
+
+1. (FN) user_id generator for application insights uses stable hashing algorithm
+2. (S)(FN) Git index lock (might happen due crash or when creating installer) is handled by deleting index.lock file
+
+
+
 ## 0.8.2 (2017-04-12) (beta)
 
 ### Fixes
