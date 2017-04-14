@@ -18,6 +18,14 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 0.8.5 (2017-04-14) (beta)
+
+### New features
+
+1. (C) New tool to quickly stop motor on required position (right click on motor control and select 'Find position') 
+
+
+
 ## 0.8.4 (2017-04-14) (beta)
 
 ### Fixes
