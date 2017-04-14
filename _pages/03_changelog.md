@@ -18,6 +18,14 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 0.8.4 (2017-04-14) (beta)
+
+### Fixes
+
+1. (C)(FO) Create/modify interaction tool crashes due invalid TwoWay binding
+
+
+
 ## 0.8.3 (2017-04-13) (beta)
 
 ### Fixes
@@ -38,12 +46,14 @@ permalink: /changelog/
 1. (C) User can send feedback straight from WinTopas4 application (if server seems reachable)
 
 
+
 ## 0.8.1 (2017-04-11) (beta)
 
 ### Fixes
 
 1. (C)(FN) Web page for mobile clients is hosted using port RestPort+2 instead of port 80 to avoid clashes with others applications (Skype etc)
 2. (S)(FN) Output metrics collector for Application Insights does not try to make sense of device state if motors are not available
+
 
 
 ## 0.8.0 (2017-04-10) (beta)
