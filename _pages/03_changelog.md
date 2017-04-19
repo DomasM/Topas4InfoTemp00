@@ -18,6 +18,14 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 0.8.6 (2017-04-19)
+
+### Fixes
+
+1. (C)(FO) Calibration editor crashes a lot if curve type is OtherDevice instead of motor
+
+
+
 ## 0.8.5 (2017-04-14) (beta), (2017-04-18)
 
 ### New features
