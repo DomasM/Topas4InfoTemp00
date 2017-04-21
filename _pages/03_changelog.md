@@ -18,6 +18,21 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+
+## 0.8.7 (2017-04-21)
+
+### Fixes
+
+1. (S)(FO) Timeout for motor reset is too short for slow motors with long travel range
+1. (C)(FO) Feedback text box does not accept return key and does not wrap text
+1. (C)(FO) It's possible to delete multiple points in motor curve and interaction views when only single point is selected
+1. (C)(FO) Interaction output range sometimes is not updated in device view and interaction view 
+
+### Changed behaviors
+
+1. (C) Smooth scanner tool updates scan range every time new interaction is selected
+
+
 ## 0.8.6 (2017-04-19)
 
 ### Fixes
