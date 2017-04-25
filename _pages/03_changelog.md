@@ -19,6 +19,16 @@ permalink: /changelog/
 
 
 
+## 0.8.8 (2017-04-25)
+
+### Fixes
+
+1. (FO) .pdb file for executable in not found by CLR, exceptions stack traces contains no line numbers (except for .dlls) 
+1. (S)(FO) Under certain conditions shutter can't be opened ('due safety reasons') after setting wavelength
+1. (C)(FO) Non-explicit IDL to SIG conversion creates invalid wavelength mapping curve
+
+
+
 ## 0.8.7 (2017-04-21)
 
 ### Fixes
