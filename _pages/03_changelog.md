@@ -19,6 +19,18 @@ permalink: /changelog/
 
 
 
+## 0.9.0 (2017-04-26)
+
+### New Feautures
+
+1. (C) User can finish interaction modification by deleting all old points in motor curves
+
+### Changed behaviors
+
+1. Auto updater moved from Dropbox to Azure+GitHub.io to avoid Great Firewall of China 
+
+
+
 ## 0.8.8 (2017-04-25)
 
 ### Fixes
