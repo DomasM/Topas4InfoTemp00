@@ -17,6 +17,14 @@ permalink: /changelog/
 * (FO)-Fixed old: describes wrong behavior before bug fix
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
+## 0.9.2 (2017-04-27)
+
+### Fixes
+
+1. (C)(FO) Application crashes if incorrect password is provided
+
+
+
 ## 0.9.1 (2017-04-26)
 
 No changes
