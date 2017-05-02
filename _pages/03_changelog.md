@@ -17,6 +17,23 @@ permalink: /changelog/
 * (FO)-Fixed old: describes wrong behavior before bug fix
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
+
+## 1.0.1 (2017-05-02)
+
+### Fixes
+
+1. (C)(FO) Position for motor curve with additive calibration is saved with no regard that it is additive when modifying motor curve in Calibration>Optical tab
+1. (C)(FO) Motor curve with additive calibration is moved to wrong position when modifying interaction in Create/modify interaction tool
+1. (C)(FO) Copy-pasting interaction input points does not handle decimal separator well
+
+### New features
+
+1. (C) Wavelength correction tool (move calibration points in all motor curves horizontally/add new point). Automated version with spectrometer in spectraLight since 2.5.0
+1. (C) Respacer tool for interaction motor curves
+1. (C) Arrow buttons to move named motor positions up/down in the list
+
+
+
 ## 0.9.2 (2017-04-27)
 
 ### Fixes
