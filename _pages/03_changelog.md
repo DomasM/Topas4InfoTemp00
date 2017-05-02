@@ -18,6 +18,14 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 1.0.2 (2017-05-02)
+
+### Fixes
+
+1. (C)(FO) Respacer tool will add duplicate point under certain conditions
+
+
+
 ## 1.0.1 (2017-05-02)
 
 ### Fixes
