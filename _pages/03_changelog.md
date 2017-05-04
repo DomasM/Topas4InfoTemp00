@@ -18,6 +18,15 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+
+## 1.0.3 (2017-05-02)
+
+### Fixes
+
+1. (S)(FO) Shutter might actually be open while control board thinks it's closed if close command is issued shortly after open command.
+
+
+
 ## 1.0.2 (2017-05-02)
 
 ### Fixes
