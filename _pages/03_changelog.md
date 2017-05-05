@@ -21,7 +21,7 @@ permalink: /changelog/
 
 ## 1.0.3 (2017-05-02)
 
-### Fixes
+### Fixes 
 
 1. (S)(FO) Shutter might actually be open while control board thinks it's closed if close command is issued shortly after open command.
 
