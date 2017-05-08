@@ -19,6 +19,14 @@ permalink: /changelog/
 
 
 
+## 1.1.0 (2017-05-08)
+
+### New features
+
+1. WinTopas4, including self hosted servers, can be updated offline by installing newest version on top
+
+
+
 ## 1.0.3 (2017-05-02)
 
 ### Fixes 
