@@ -19,6 +19,22 @@ permalink: /changelog/
 
 
 
+## 1.1.1 (2017-05-09)
+
+### Fixes 
+
+1. (FN) If connection to motor control board fails and client PC is not authenticated 'Start authentication' button is not shown
+
+### New features
+
+1. (S) Press F11 in server application to open Configuration\Settings folder
+
+### Changed behaviors
+
+1. (S) New help generator for REST services (faster startup)
+
+
+
 ## 1.1.0 (2017-05-08)
 
 ### New features
