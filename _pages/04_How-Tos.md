@@ -44,3 +44,12 @@ permalink: /How-Tos/
 
 
 
+### <a name="Vid004"></a>Restore device configuration from automatic backup
+<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid005">
+    Copy address to this how-to
+</button>
+<video  controls="controls">
+<source src="https://www.dropbox.com/s/xzhtcxamekumbqi/HowToRestoreConfiguration.mp4?dl=1" type="video/mp4" />
+</video>
+
+
