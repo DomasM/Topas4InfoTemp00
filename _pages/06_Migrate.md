@@ -18,7 +18,7 @@ permalink: /Migrate-From-WinTopas3/
 ![03](https://www.dropbox.com/s/l0t48t7dhe9ixr7/03.png?dl=1)
 
 
-**Better support for interaction with overlapping wavelength range**
+**Better support for interactions with overlapping wavelength range**
 <img src="https://www.dropbox.com/s/30pyuxsdojva235/04.png?dl=1" alt="" usemap="#map1494523577671">
 <map id="map1494523577671" name="map1494523577671"><area shape="rect" coords="1071.000081046875,981.0000200117188,1924.6667470468751,1172.6666860117189" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid002" target="_blank"><area shape="rect" coords="1243.000081046875,603.0000200117188,1954.6667470468751,738.6666860117189" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid006" target="_blank"></map>
 
