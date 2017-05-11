@@ -19,6 +19,21 @@ permalink: /changelog/
 
 
 
+## 1.1.2 (2017-05-11)
+
+
+### New features
+
+1. (C) New tool to manage SelfHosted servers from WinTopas4 (Tools>Self Hosts>Manage devices).
+
+### Changed behaviors
+
+1. (C) Topas3 configuration converter preserves motor positions
+1. (C) Topas3 configuration converter adds 127.0.0.1 to IP address white list (there is no need to authenticate after conversion)
+1. (C) SelfHostedServers\Master directory is hidden
+
+
+
 ## 1.1.1 (2017-05-09)
 
 ### Fixes 
