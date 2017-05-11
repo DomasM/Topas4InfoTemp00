@@ -14,7 +14,7 @@ permalink: /Migrate-From-WinTopas3/
 **Control multiple devices from the same window**
 ![02](https://www.dropbox.com/s/obmyvi5hsar11gk/02.png?dl=1)
 
-**Even use Topas/Orpheus from your smartphone**
+**You can even control Topas/Orpheus from your smartphone**
 ![03](https://www.dropbox.com/s/l0t48t7dhe9ixr7/03.png?dl=1)
 
 
@@ -34,10 +34,9 @@ permalink: /Migrate-From-WinTopas3/
 **And many other reasons:**
 
 1. WinTopas4 looks great on high resolution, high dpi screens
-2. ...?
+1. All upcoming features will be available only in WinTopas4 
+1. ...?
 
-
-**And it shouldn't take longer than a few minutes!**
 
 
 ## Instructions
@@ -76,9 +75,12 @@ permalink: /Migrate-From-WinTopas3/
 
 You can easily import additional curves from .crv files after conversion. See video ['Import interactions from WinTopas3 .crv files'](http://domasm.github.io/Topas4Info/How-Tos/#Vid006)
 
-**2. Can I easily return to WinTopas3 if something goes wrong?**
+**2. Can I quickly return to WinTopas3 if something goes wrong?**
 
 Close Topas4 applications (especially servers, the green ones) and start WinTopas3. Reset all motors in WinTopas3. Any changes you made in WinTopas4 won't propagate to WinTopas3 (and vice versa).
+
+**3.After conversion some of the motors after have named positions. Can I change their names?**
+
 
 
 
