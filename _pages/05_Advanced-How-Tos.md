@@ -14,3 +14,11 @@ permalink: /Advanced-How-Tos/
 </video>
 
 
+### <a name="Vid201"></a>Manage self-hosts (prevent servers from staring with WinTopas4 and delete old servers)
+<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid201">
+    Copy address to this how-to
+</button>
+<video  controls="controls">
+<source src="https://www.dropbox.com/s/fctr6t2dfpouvjf/HowToManageSelfHosts.mp4?dl=1" type="video/mp4" />
+</video>
+
