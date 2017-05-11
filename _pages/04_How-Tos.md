@@ -44,7 +44,7 @@ permalink: /How-Tos/
 
 
 
-### <a name="Vid004"></a>Restore device configuration from automatic backup
+### <a name="Vid005"></a>Restore device configuration from automatic backup
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid005">
     Copy address to this how-to
 </button>
