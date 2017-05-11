@@ -8,6 +8,6 @@ fullUrl: "http://domasm.github.io/Topas4Info"
 # Build Settings
 sass:
   sass_dir: _sass
-include: ['_pages', '_nonVisiblePages']
+include: ['_pages']
 kramdown:
   input: GFM
