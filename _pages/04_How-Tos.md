@@ -54,3 +54,13 @@ permalink: /How-Tos/
 </video>
 
 
+
+### <a name="Vid006"></a>Import interactions from WinTopas3 .crv files
+<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid006">
+    Copy address to this how-to
+</button>
+<video  controls="controls">
+<source src="https://www.dropbox.com/s/eozo04hnlrgotue/HowToImportCalibrationFromWinTopas3CRVFiles.mp4?dl=1" type="video/mp4" />
+</video>
+
+
