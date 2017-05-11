@@ -31,21 +31,11 @@ permalink: /Migrate-From-WinTopas3/
 <source src="https://www.dropbox.com/s/2dfh3g3cn7zvqs1/HowToUserSmoothScanner.mp4?dl=1" type="video/mp4" />
 </video>
 
-### And many other reasons:
-
-**Better support for interaction with overlapping wavelength range**
-<img src="https://www.dropbox.com/s/30pyuxsdojva235/04.png?dl=1" alt="" usemap="#map1494523577671">
-<map id="map1494523577671" name="map1494523577671"><area shape="rect" coords="1071.000081046875,981.0000200117188,1924.6667470468751,1172.6666860117189" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid002" target="_blank"><area shape="rect" coords="1243.000081046875,603.0000200117188,1954.6667470468751,738.6666860117189" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid006" target="_blank"></map>
+**And many other reasons:**
 
 1. WinTopas4 looks great on high resolution, high dpi screens
 2. ...?
 
-
-**And it shouldn't take longer than a few minutes!**
-
-=======
-**Easier and faster calibration modification**
-![05](https://www.dropbox.com/s/3qeoh3d1s5exuha/05.png?dl=1)
 
 **And it shouldn't take longer than a few minutes!**
 
