@@ -19,6 +19,14 @@ permalink: /changelog/
 
 
 
+## 1.1.3 (2017-05-11)
+
+### Fixes 
+
+1. (C)(FN) When trying to delete/inactivate self hosted server from WinTopas4 check whether it has actually exited.
+
+
+
 ## 1.1.2 (2017-05-11)
 
 
