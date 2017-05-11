@@ -5,22 +5,23 @@ permalink: /Migrate-From-WinTopas3/
 ---
 
 
+
 ## Why upgrade to WinTopas4?
 
+01
+<img src="https://www.dropbox.com/s/k700nsnhbi6glwx/01.png?dl=1" alt="" usemap="#map1494520202657">
+<map id="map1494520202657" name="map1494520202657"><area shape="rect" coords="93.015625,894.015625,777.015625,996.015625" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid001" target="_blank"></map>
+
+02
+
+03
 
 
-1. aa
-2. bb
-3. cc
-3. cc
-3. cc
-3. cc
-3. cc
-3. cc
-3. cc
+04
+<img src="https://www.dropbox.com/s/30pyuxsdojva235/04.png?dl=1" alt="" usemap="#map1494520334106">
+<map id="map1494520334106" name="map1494520334106"><area shape="rect" coords="1074.015625,996.015625,1899.015625,1182.015625" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid002" target="_self"></map>
 
-
-
+05
 
 ## Instructions
 
