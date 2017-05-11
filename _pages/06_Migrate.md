@@ -5,23 +5,29 @@ permalink: /Migrate-From-WinTopas3/
 ---
 
 
-
 ## Why upgrade to WinTopas4?
 
-01
+**Access most often used functions quicker and easier!**
 <img src="https://www.dropbox.com/s/k700nsnhbi6glwx/01.png?dl=1" alt="" usemap="#map1494520202657">
 <map id="map1494520202657" name="map1494520202657"><area shape="rect" coords="93.015625,894.015625,777.015625,996.015625" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid001" target="_blank"></map>
 
-02
+**Control multiple devices from the same window**
+![02](https://www.dropbox.com/s/obmyvi5hsar11gk/02.png?dl=1)
 
-03
+**Even use Topas/Orpheus from your smartphone**
+![03](https://www.dropbox.com/s/l0t48t7dhe9ixr7/03.png?dl=1)
 
 
-04
-<img src="https://www.dropbox.com/s/30pyuxsdojva235/04.png?dl=1" alt="" usemap="#map1494520334106">
-<map id="map1494520334106" name="map1494520334106"><area shape="rect" coords="1074.015625,996.015625,1899.015625,1182.015625" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid002" target="_self"></map>
+**Better support for interaction with overlapping wavelength range**
+<img src="https://www.dropbox.com/s/30pyuxsdojva235/04.png?dl=1" alt="" usemap="#map1494523577671">
+<map id="map1494523577671" name="map1494523577671"><area shape="rect" coords="1071.000081046875,981.0000200117188,1924.6667470468751,1172.6666860117189" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid002" target="_blank"><area shape="rect" coords="1243.000081046875,603.0000200117188,1954.6667470468751,738.6666860117189" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid006" target="_blank"></map>
 
-05
+
+**Easier and faster calibration modification**
+![05](https://www.dropbox.com/s/3qeoh3d1s5exuha/05.png?dl=1)
+
+**And it shouldn't take longer than a few minutes!**
+
 
 ## Instructions
 
@@ -44,14 +50,24 @@ permalink: /Migrate-From-WinTopas3/
 1. Select path to the WinTopas3 configuration .ini file from the combo box, click 'Convert', click 'Launch server'.
 1. Click yes when Windows UAC prompts for administrator rights. Allow all applications through firewall.
 1. If you have multiple devices connected to the same PC, repeat steps 6-7 for each ini file. **Make sure to use different Topas3 API slot for each device (enter value before launching server).**
-1. If you want to return to WinTopas3 usage, close server application (green icon) and start WinTopas3. Reset all motors in WinTopas3. Any changes you made in WinTopas4 won't propagate to W3 (and vice versa).
+1. Enjoy! All motor settings and calibration curves have been imported!
 
 
 ### Case B. Installation on another PC
 1. Get .ini and .crv files for the device that you want to use from the PC where WinTopas3 is currently running. 
 1. Install WinTopas4.  Check 'Topas3 motor board drivers' in the first dialog page.
 1. Connect Topas USB cable to the new PC.
-1. Follow the steps 3-9 as in Case A. You'll have to browse to the .ini files yourself in step 5 instead of selecting them from combo box. 
+1. Follow the steps 3-9 as in Case A. You'll have to browse to the .ini files yourself in step 5 instead of selecting them from combo box.
+
+## Q&A
+
+**1. I have multiple .crv files for the same stage (e.g. Mixer2). I see that interactions have been imported only from the one of them!**
+
+You can easily import additional curves from .crv files after conversion. See video ['Import interactions from WinTopas3 .crv files'](http://domasm.github.io/Topas4Info/How-Tos/#Vid006)
+
+**2. Can I easily return to WinTopas3 if something goes wrong?**
+
+Close Topas4 applications (especially servers, the green ones) and start WinTopas3. Reset all motors in WinTopas3. Any changes you made in WinTopas4 won't propagate to WinTopas3 (and vice versa).
 
 
 
