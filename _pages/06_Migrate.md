@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Migrate from WinTopas3
 permalink: /Migrate-From-WinTopas3/
 ---
 
