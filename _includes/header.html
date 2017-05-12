@@ -5,8 +5,8 @@
 				{% for page in site.pages %} {% if page.title %}
                 {% unless page.nolink %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-				{% endif %} 
                 {% endunless %}
+				{% endif %} 
                 {% endfor %}
 				<li><a href="https://domasm.github.io/Topas4PublicAPI/current/index.html">API</a></li>
 			</ul>
