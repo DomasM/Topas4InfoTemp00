@@ -2,6 +2,7 @@
 layout: page
 title: Migrate from WinTopas3
 permalink: /Migrate-From-WinTopas3/
+nolink : true
 ---
 
 
@@ -44,7 +45,8 @@ permalink: /Migrate-From-WinTopas3/
 ### System requirements
 
 1. Windows 7 or newer
-2. Topas control board with USB connection (LPT board is not supported)
+2. Administrator rights (for installation and first launch only)
+3. Topas control board with USB connection (LPT board is not supported)
 
 **Time required ~ 2 minutes**
 

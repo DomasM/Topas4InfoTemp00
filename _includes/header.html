@@ -3,9 +3,11 @@
 		<nav>
 			<ul>
 				{% for page in site.pages %} {% if page.title %}
-				{% if page.title != "Migrate from WinTopas3" %}
+                {% unless page.nolink %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-				{% endif %} {% endif %} {% endfor %}
+				{% endif %} 
+                {% endunless %}
+                {% endfor %}
 				<li><a href="https://domasm.github.io/Topas4PublicAPI/current/index.html">API</a></li>
 			</ul>
 			</li>
