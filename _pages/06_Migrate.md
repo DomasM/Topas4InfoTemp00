@@ -88,7 +88,7 @@ Close Topas4 applications (especially servers, the green ones) and start WinTopa
 If you inspect interaction under 'Calibration>Optical' you might think that not all motor curves have been imported. Instead, they have been imported and converted to separation configuration ('Calibration>Separation'). You do not need to take any further steps, motors will move to correct positions when setting wavelength.
 
 
-**4. I see orange\red exclamation marks near 'Calibration' tab.<img src="https://www.dropbox.com/s/m1nh6oey9qeganh/Exclamation.PNG?dl=1" height="30"> What do they mean?**
+**4. I see orange\red exclamation marks near 'Calibration' tab.<img src="https://www.dropbox.com/s/m1nh6oey9qeganh/Exclamation.PNG?dl=1" height="25" width="126"> What do they mean?**
 
 WinTopas4 performs sanity checks on calibration. Orange exclamation marks are used to denote possible mistakes and give suggestions. Red exclamation marks are used to denote 100% configuration mistakes. Hover over exclamation mark or click on it to read detailed descriptions what's wrong and learn how to fix the issues.
 
