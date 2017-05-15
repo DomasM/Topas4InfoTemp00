@@ -29,7 +29,7 @@ nolink : true
 
 **Smooth wavelength scanner: scan selected wavelength range to achieve quasi-broadband spectrum**
 <video  controls="controls">
-<source src="https://www.dropbox.com/s/3qeoh3d1s5exuha/05.png?dl=1" type="video/mp4" />
+<source src="https://www.dropbox.com/s/2dfh3g3cn7zvqs1/HowToUserSmoothScanner.mp4?dl=1" type="video/mp4" />
 </video>
 
 **And many other reasons:**
