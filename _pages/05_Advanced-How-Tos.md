@@ -22,3 +22,16 @@ permalink: /Advanced-How-Tos/
 <source src="https://www.dropbox.com/s/fctr6t2dfpouvjf/HowToManageSelfHosts.mp4?dl=1" type="video/mp4" />
 </video>
 
+
+### <a name="Vid202"></a>Rename named motor position
+<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid202">
+    Copy address to this how-to
+</button>
+<video  controls="controls">
+<source src="https://www.dropbox.com/s/ca8515ezxo6idn7/HowToRenameNamedMotorPosition.mp4?dl=1" type="video/mp4" />
+</video>
+
+
+
+
+

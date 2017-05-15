@@ -20,23 +20,25 @@ nolink : true
 
 
 **Better support for interactions with overlapping wavelength ranges**
-<img src="https://www.dropbox.com/s/30pyuxsdojva235/04.png?dl=1" alt="" usemap="#map1494523577671">
+<img src="https://www.dropbox.com/s/l0t48t7dhe9ixr7/03.png?dl=1" alt="" usemap="#map1494523577671">
 <map id="map1494523577671" name="map1494523577671"><area shape="rect" coords="1071.000081046875,981.0000200117188,1924.6667470468751,1172.6666860117189" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid002" target="_blank"><area shape="rect" coords="1243.000081046875,603.0000200117188,1954.6667470468751,738.6666860117189" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid006" target="_blank"></map>
 
 
 **Easier and faster calibration modification**
-![05](https://www.dropbox.com/s/3qeoh3d1s5exuha/05.png?dl=1)
+![05](https://www.dropbox.com/s/30pyuxsdojva235/04.png?dl=1)
 
 **Smooth wavelength scanner: scan selected wavelength range to achieve quasi-broadband spectrum**
 <video  controls="controls">
-<source src="https://www.dropbox.com/s/2dfh3g3cn7zvqs1/HowToUserSmoothScanner.mp4?dl=1" type="video/mp4" />
+<source src="https://www.dropbox.com/s/3qeoh3d1s5exuha/05.png?dl=1" type="video/mp4" />
 </video>
 
 **And many other reasons:**
 
 1. WinTopas4 looks great on high resolution, high dpi screens
+1. Forbidden motor position ranges increase user safety and lower risk of accidental device damage (need to be configured after migration)
+1. Smart integrated device configuration backups every 15 minutes
+1. Extensive calibration sanity checks help to avoid common mistakes when creating/modifying interactions
 1. All upcoming features will be available only in WinTopas4 
-1. ...?
 
 
 
@@ -81,8 +83,17 @@ You can easily import additional curves from .crv files after conversion. See vi
 
 Close Topas4 applications (especially servers, the green ones) and start WinTopas3. Reset all motors in WinTopas3. Any changes you made in WinTopas4 won't propagate to WinTopas3 (and vice versa).
 
-**3.After conversion some of the motors after have named positions. Can I change their names?**
+**3. It looks like some interactions have lost calibration curves for some motors (e.g. SIG used to have 5 motor curves, and now only has 3). Is this is a bug?**
+
+If you inspect interaction under 'Calibration>Optical' you might think that not all motor curves have been imported. Instead, they have been imported and converted to separation configuration ('Calibration>Separation'). You do not need to take any further steps, motors will move to correct positions when setting wavelength.
 
 
+**4. I see orange\red exclamation marks near 'Calibration' tab. ![Exclamation mark](https://www.dropbox.com/s/m1nh6oey9qeganh/Exclamation.PNG?dl=1 "Exclamation mark") What do they mean?**
 
+WinTopas4 performs sanity checks on calibration. Orange exclamation marks are used to denote possible mistakes and give suggestions. Red exclamation marks are used to denote 100% configuration mistakes. Hover over exclamation mark or click on it to read detailed descriptions what's wrong and learn how to fix the issues.
+
+
+**5.After conversion some of the motors have named positions like 'P 1678'. What does that mean? Can I change their names?**
+
+WinTopas4 to WinTopas4 converter tries to extract discrete motor positions from staircase-like calibration curves and give them meaningful names. This is not always possible, so some motors end up with the named positions like 'P 1678', which is simply motor position in steps when this position is set. See video ['Rename named motor positons'](http://domasm.github.io/Topas4Info/Advanced-How-Tos/#Vid202) to learn how to give more meaningful names. Separation configuration will be updated automatically.
 
