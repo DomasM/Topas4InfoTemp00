@@ -56,7 +56,8 @@ nolink : true
 
 ### Case A. Installation on the same PC as WinTopas3 is currently running
 **Installation is non-intrusive, meaning that WinTopas3 will be able to function as earlier when WinTopas4 application is closed.**
-
+ 
+ [See here for video instructions](http://domasm.github.io/Topas4Info/How-Tos/#Vid007)
 
 1. [Install WinTopas4 using default settings](https://www.dropbox.com/s/54ccgxua9gch6mt/WinTopas4-setup.exe?dl=1)
 1. Close WinTopas3 application if running
@@ -67,12 +68,6 @@ nolink : true
 1. Click yes when Windows UAC prompts for administrator rights. Allow all applications through firewall.
 1. If you have multiple devices connected to the same PC, repeat steps 6-7 for each ini file. **Make sure to use different Topas3 API slot for each device (enter value before launching server).**
 1. Enjoy! All motor settings and calibration curves have been imported!
-
-
-**Video demonstration**
-<video  controls="controls">
-<source src="https://www.dropbox.com/s/tzppwuu2ad4g9hl/HowToConvertFromTopas3.mp4?dl=1" type="video/mp4" />
-</video
 
 
 
