@@ -5,15 +5,14 @@ permalink: /EULA/
 nolink : true
 ---
 
-## End user license agreement
 
-This end-user licence agreement (EULA) is a legal agreement between you (End-user or You) and Light Conversion (legal name UAB MGF Šviesos Konversija) of Keramikų 2B, Vilnius, Lithuania (Light Conversion, Us or We) for use of the Topas4 software (the “Service”).
+This end-user license agreement (EULA) is a legal agreement between you (End-user or You) and Light Conversion (legal name UAB MGF Šviesos Konversija) of Keramikų 2B, Vilnius, Lithuania (Light Conversion, Us or We) for use of the Topas4 software (the “Service”).
 
 ### Important notice:
 
-1. By using the Service from Light Conversion You agree to the terms of this licence which will bind You. The terms of this licence include, in particular, the privacy policy defined in condition 1.4 and limitations on liability at condition 5.
-1. If You do not agree to the terms of this licence and our privacy policy we will not permit access to the Service and You must stop the using the Service now. In this case the joining process will terminate.
-
+1. By using the Service from Light Conversion You agree to the terms of this license which will bind You. The terms of this license include, in particular, the privacy policy defined in condition 1.4 and limitations on liability at condition 5.
+1. If You do not agree to the terms of this license and our privacy policy we will not permit access to the Service and You must stop the using the Service now. In this case the joining process will terminate.
+## Agreed terms
 
 ### 1. Acknowledgements
 
@@ -58,23 +57,23 @@ You must not:
 
 1. We may terminate this EULA immediately without notice to you:
 * if you commit a material or persistent breach of this EULA;
-* if you breach any of the Acceptable Use Restrictions; and
-1. On termination for any reason:
+* if you breach any of the Acceptable Use Restrictions;
+2. On termination for any reason:
 * all rights granted to you under this EULA shall cease;
-* you must immediately cease all activities authorised by this EULA, including your use of any Services;
+* you must immediately cease all activities authorized by this EULA, including your use of any Services;
 * we will cease providing you with access to the Service.
-1. Termination of this EULA shall be without prejudice to the rights or remedies or either party accrued prior to the date of termination.
+3. Termination of this EULA shall be without prejudice to the rights or remedies or either party accrued prior to the date of termination.
 
 ### 7. Events outside our control
 
 1. We will not be liable or responsible for any failure to perform, or delay in performance of, any of our obligations under this EULA that is caused by any act or event beyond our reasonable control, including failure of public or private telecommunications networks or interruptions in third party services (Event Outside Our Control).
 1. If an Event Outside Our Control takes place that affects the performance of our obligations under this EULA:
 * our obligations under this EULA will be suspended and the time for performance of our obligations will be extended for the duration of the Event Outside Our Control; and
-* we will use our reasonable endeavours to find a solution by which our obligations under this EULA may be performed despite the Event Outside Our Control.
+* we will use our reasonable endeavors to find a solution by which our obligations under this EULA may be performed despite the Event Outside Our Control.
 
 ### 8. Other important terms
 
-1. We may transfer our rights and obligations under this EULA to another organisation, but this will not affect your rights or our obligations under this EULA.
+1. We may transfer our rights and obligations under this EULA to another organization, but this will not affect your rights or our obligations under this EULA.
 1. You may only transfer your rights or obligations under this EULA to another person if we agree in writing.
 1. If we fail to insist that you perform any of your obligations under this EULA, or if we do not enforce our rights against you, or if we delay in doing so, that will not mean that we have waived our rights against you and will not mean that you do not have to comply with those obligations. If we do waive a default by you, we will only do so in writing, and that will not mean that we will automatically waive any later default by you.
 1. Each of the conditions of this EULA operates separately. If any court or competent authority decides that any of them are unlawful or unenforceable, the remaining conditions will remain in full force and effect.
