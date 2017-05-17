@@ -18,6 +18,26 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 1.2.0 (2017-05-16)
+
+### Fixes
+
+1. (FO) Wrong minimal motor position calculation in case negative factor is used
+1. (S)(FO) When named motor position is renamed, separation configuration does not update accordingly
+
+
+### New features
+
+1. (C) After Topas3 > Topas4 conversion user can start device as demo (without using actual hardware)
+
+### Changed behavior
+
+1. (C) Topas3 to Topas4 converter tries to guess named motor positions names for wavelength separators and some other motors with discrete positions
+1. (C) Other minor tweaks in Topas3 to Topas4 converter
+1. Add EULA to installers
+2. (C) Separation configuration sanity checker for multiple entries which differ only by interaction is disabled
+
+
 
 ## 1.1.3 (2017-05-11)
 
@@ -28,7 +48,6 @@ permalink: /changelog/
 
 
 ## 1.1.2 (2017-05-11)
-
 
 ### New features
 
