@@ -18,6 +18,19 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+
+## 1.2.1 (2017-05-19)
+
+### Fixes
+
+1. (S)(FO) Likely fixed: application might crash when restarting (System.NullReferenceException at System.Threading.Overlapped.get_iocbHelper)
+1. (S)(FN) Remove unused websocket module initialization which might cause real one to become unavailable (crash before 1.2.0)
+1. (C)(FO) Application crashes if user tries to add neutral position without selecting motor first
+1. (C)(FO) Application crashes if user tries to open wavelength fixer tool for interaction with no calibration points that apply for fixing
+
+
+
+
 ## 1.2.0 (2017-05-16)
 
 ### Fixes
