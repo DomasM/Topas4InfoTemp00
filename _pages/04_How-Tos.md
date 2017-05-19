@@ -5,6 +5,7 @@ permalink: /How-Tos/
 ---
 
 ### Upgrade from WinTopas3
+
 <a name="Vid007"></a> 
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid007">
     Copy address to this how-to
@@ -18,6 +19,7 @@ permalink: /How-Tos/
 
 
 ### Lauch demo device
+
 <a name="Vid003"></a>
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid003">
     Copy address to this how-to
@@ -36,6 +38,7 @@ permalink: /How-Tos/
 
 
 ### Select interaction(s) and create interaction groups
+
  <a name="Vid002"></a>
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid002">
     Copy address to this how-to
@@ -46,9 +49,8 @@ permalink: /How-Tos/
 
 
 
-
-<a name="Vid004"></a>
 ### Use smooth wavelength scanner
+<a name="Vid004"></a>
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid004">
     Copy address to this how-to
 </button>
@@ -58,8 +60,8 @@ permalink: /How-Tos/
 
 
 
-<a name="Vid005"></a>
 ### Restore device configuration from automatic backup
+<a name="Vid005"></a>
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid005">
     Copy address to this how-to
 </button>
@@ -69,8 +71,8 @@ permalink: /How-Tos/
 
 
 
-<a name="Vid006"></a>
 ### Import interactions from WinTopas3 .crv files
+<a name="Vid006"></a>
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid006">
     Copy address to this how-to
 </button>
