@@ -13,8 +13,7 @@ permalink: /How-Tos/
 <source src="https://www.dropbox.com/s/tzppwuu2ad4g9hl/HowToConvertFromTopas3.mp4?dl=1" type="video/mp4" />
 </video
 
-
-### <a name="Vid003"></a>Lauch demo device
+### <a name="Vid003"></a> Lauch demo device
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid003">
     Copy address to this how-to
 </button>
