@@ -12,7 +12,7 @@ permalink: /How-Tos/
 </button>
 <video  controls="controls">
 <source src="https://www.dropbox.com/s/tzppwuu2ad4g9hl/HowToConvertFromTopas3.mp4?dl=1" type="video/mp4" />
-</video
+</video>
 
 
 
