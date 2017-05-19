@@ -4,9 +4,8 @@ title: How-Tos
 permalink: /How-Tos/
 ---
 
-<h3>Upgrade from WinTopas3</h3>
 
-<a name="Vid007"></a> 
+### <a name="Vid007"></a>Upgrade from WinTopas3
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid007">
     Copy address to this how-to
 </button>
@@ -14,13 +13,7 @@ permalink: /How-Tos/
 <source src="https://www.dropbox.com/s/tzppwuu2ad4g9hl/HowToConvertFromTopas3.mp4?dl=1" type="video/mp4" />
 </video>
 
-
-
-
-
-<h3>Launch demo device</h3>
-
-<a name="Vid003"></a>
+### <a name="Vid003"></a> Lauch demo device
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid003">
     Copy address to this how-to
 </button>
@@ -28,8 +21,8 @@ permalink: /How-Tos/
 <source src="https://www.dropbox.com/s/6vu8z20e4edck2z/HowToLaunchDemoDevice.mp4?dl=1" type="video/mp4" />
 </video>
 
-<h3> Add a new group to saved motors positions </h3>
-<a name="Vid001"></a> 
+
+### <a name="Vid001"></a>Add a new group to saved motors positions
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid001">
     Copy address to this how-to
 </button>
@@ -38,9 +31,7 @@ permalink: /How-Tos/
 </video>
 
 
-### Select interaction(s) and create interaction groups
-
- <a name="Vid002"></a>
+### <a name="Vid002"></a>Select interaction(s) and create interaction groups
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid002">
     Copy address to this how-to
 </button>
@@ -50,8 +41,8 @@ permalink: /How-Tos/
 
 
 
-### Use smooth wavelength scanner
-<a name="Vid004"></a>
+
+### <a name="Vid004"></a>Use smooth wavelength scanner
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid004">
     Copy address to this how-to
 </button>
@@ -61,8 +52,7 @@ permalink: /How-Tos/
 
 
 
-### Restore device configuration from automatic backup
-<a name="Vid005"></a>
+### <a name="Vid005"></a>Restore device configuration from automatic backup
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid005">
     Copy address to this how-to
 </button>
@@ -72,8 +62,7 @@ permalink: /How-Tos/
 
 
 
-### Import interactions from WinTopas3 .crv files
-<a name="Vid006"></a>
+### <a name="Vid006"></a>Import interactions from WinTopas3 .crv files
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid006">
     Copy address to this how-to
 </button>
