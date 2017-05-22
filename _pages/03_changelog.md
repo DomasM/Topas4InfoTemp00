@@ -19,6 +19,19 @@ permalink: /changelog/
 
 
 
+## 1.2.2 (2017-05-22)
+
+### Fixes
+
+1. (S)(FO) Wrong motor reset position difference calculation (second pass used instead of first)
+
+### Changed behavior
+
+1. (C) Minor UI tweaks
+
+
+
+
 ## 1.2.1 (2017-05-19)
 
 ### Fixes
