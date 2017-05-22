@@ -35,6 +35,7 @@ nolink : true
 **And many other reasons:**
 
 1. WinTopas4 looks great on high resolution, high dpi screens
+1. Non-intrusive automatic software updates
 1. Forbidden motor position ranges increase user safety and lower risk of accidental device damage (need to be configured after migration)
 1. Smart integrated device configuration backups every 15 minutes
 1. Extensive calibration sanity checks help to avoid common mistakes when creating/modifying interactions
@@ -50,6 +51,7 @@ nolink : true
 1. Administrator rights (for installation and first launch only)
 1. Topas control board with USB connection (LPT board is not supported)
 1. Topas/Orpheus device manufactured or serviced in 2011 or later ([contact Light Conversion for earlier devices](mailto:support@lightcon.com), as there might be conversion problems)
+1. It is recommended to use Topas4 software on the PC with internet connection, as it's in active development right now, with many fixes/improvements released every week (updates are automatic and non-intrusive)
 
 **Time required ~ 2 minutes**
 
