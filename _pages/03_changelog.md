@@ -19,6 +19,15 @@ permalink: /changelog/
 
 
 
+## 1.2.3 (2017-05-22)
+
+### Fixes
+
+1. (S)(FO) Server application enters infinite relaunch loop if Windows are localized and firewall permissions are missing
+
+
+
+
 ## 1.2.2 (2017-05-22)
 
 ### Fixes
