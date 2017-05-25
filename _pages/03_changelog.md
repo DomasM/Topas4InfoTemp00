@@ -19,6 +19,15 @@ permalink: /changelog/
 
 
 
+## 1.2.4 (2017-05-25)
+
+### Changed behaviors
+
+1. (C) Red warning 'undefined' is no longer shown for motors with named positions which are in none of them
+
+
+
+
 ## 1.2.3 (2017-05-22)
 
 ### Fixes
@@ -34,7 +43,7 @@ permalink: /changelog/
 
 1. (S)(FO) Wrong motor reset position difference calculation (second pass used instead of first)
 
-### Changed behavior
+### Changed behaviors
 
 1. (C) Minor UI tweaks
 
@@ -65,7 +74,7 @@ permalink: /changelog/
 
 1. (C) After Topas3 > Topas4 conversion user can start device as demo (without using actual hardware)
 
-### Changed behavior
+### Changed behaviors
 
 1. (C) Topas3 to Topas4 converter tries to guess named motor positions names for wavelength separators and some other motors with discrete positions
 1. (C) Other minor tweaks in Topas3 to Topas4 converter
