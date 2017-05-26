@@ -19,6 +19,16 @@ permalink: /changelog/
 
 
 
+
+## 1.2.5 (2017-05-26)
+
+### Changed behaviors
+
+1. (S)  All motor positions are saved within five seconds after setting new target position (i.e. moving motor)
+1. (C) 'Reset in progress' warning is bigger and flashing
+
+
+
 ## 1.2.4 (2017-05-25)
 
 ### Changed behaviors
