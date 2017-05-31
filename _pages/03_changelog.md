@@ -19,6 +19,16 @@ permalink: /changelog/
 
 
 
+## 1.2.6 (2017-05-29)
+
+### Changed behaviors
+
+1. (S)  Up to two successive motor board status read failures are ignored
+1. (C)  Application exits point insertion mode in motor curve view when it loses visibility
+1. (C)  Optical configuration checker checks for small steps that are not small enough (<=0.1 nm, but > 0.001 nm)
+
+
+
 
 ## 1.2.5 (2017-05-26)
 
