@@ -9,5 +9,6 @@ fullUrl: "http://domasm.github.io/Topas4Info"
 sass:
   sass_dir: _sass
 include: ['_pages']
+google_analytics: UA-100270580-1
 kramdown:
   input: GFM
