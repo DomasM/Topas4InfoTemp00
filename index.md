@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 ### See link above for more information about Topas4
