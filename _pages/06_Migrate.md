@@ -101,5 +101,5 @@ WinTopas4 performs sanity checks on calibration. Orange exclamation marks are us
 
 **5.After conversion some of the motors have named positions like 'P 1678'. What does that mean? Can I change their names?**
 
-WinTopas4 to WinTopas4 converter tries to extract discrete motor positions from staircase-like calibration curves and give them meaningful names. This is not always possible, so some motors end up with the named positions like 'P 1678', which is simply motor position in steps when this position is set. See video ['Rename named motor positon'](http://domasm.github.io/Topas4Info/Advanced-How-Tos/#Vid202) to learn how to give more meaningful names. Separation configuration will be updated automatically.
+WinTopas3 to WinTopas4 converter tries to extract discrete motor positions from staircase-like calibration curves and give them meaningful names. This is not always possible, so some motors end up with the named positions like 'P 1678', which is simply motor position in steps when this position is set. See video ['Rename named motor positon'](http://domasm.github.io/Topas4Info/Advanced-How-Tos/#Vid202) to learn how to give more meaningful names. Separation configuration will be updated automatically.
 
