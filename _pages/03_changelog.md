@@ -19,7 +19,18 @@ permalink: /changelog/
 
 
 
-## 1.2.6 (2017-05-29)
+## 1.2.7 (2017-05-31)
+
+### New features
+
+1. (C)  Add two new demo configurations (Topas-Prime+NirUVis and Orpheus-HP)
+
+### Changed behaviors
+
+1. Optical devices are always kept ordered by index
+
+
+## 1.2.6 (2017-05-31)
 
 ### Changed behaviors
 
