@@ -108,4 +108,4 @@ Yes.
 
 **7. So where is WinTopas4 installer?**
 
-See first step of the instructions above.
+See the first step of the instructions above.
