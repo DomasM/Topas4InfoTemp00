@@ -19,6 +19,15 @@ permalink: /changelog/
 
 
 
+## 1.2.8 (2017-06-05)
+
+### Changed behaviors
+
+1. (C) Add separation configuration check for overlapping ranges
+
+
+
+
 ## 1.2.7 (2017-05-31)
 
 ### New features
