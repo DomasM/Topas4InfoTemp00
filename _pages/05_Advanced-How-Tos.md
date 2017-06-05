@@ -10,7 +10,7 @@ permalink: /Advanced-How-Tos/
     Copy address to this how-to
 </button>
 <video  controls="controls">
-<source src="https://www.dropbox.com/s/8f8c50wa3b7bda1/HowToSetCurrentDecreaseFactor.mp4?dl=1" type="video/mp4" />
+<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToSetCurrentDecreaseFactor.mp4" type="video/mp4" />
 </video>
 
 
@@ -19,7 +19,7 @@ permalink: /Advanced-How-Tos/
     Copy address to this how-to
 </button>
 <video  controls="controls">
-<source src="https://www.dropbox.com/s/fctr6t2dfpouvjf/HowToManageSelfHosts.mp4?dl=1" type="video/mp4" />
+<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToManageSelfHosts.mp4" type="video/mp4" />
 </video>
 
 
@@ -28,7 +28,7 @@ permalink: /Advanced-How-Tos/
     Copy address to this how-to
 </button>
 <video  controls="controls">
-<source src="https://www.dropbox.com/s/ca8515ezxo6idn7/HowToRenameNamedMotorPosition.mp4?dl=1" type="video/mp4" />
+<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToRenameNamedMotorPosition.mp4" type="video/mp4" />
 </video>
 
 

@@ -8,27 +8,27 @@ permalink: /Migrate-From-WinTopas3/
 ## Why upgrade to WinTopas4?
 
 **Access most often used functions quicker and easier!**
-<img src="https://www.dropbox.com/s/k700nsnhbi6glwx/01.png?dl=1" alt="" usemap="#map1494520202657">
+<img src="https://lightconupdater.blob.core.windows.net/topas4infopage/Images/Migrate-From-WinTopas3/01.png" alt="" usemap="#map1494520202657">
 <map id="map1494520202657" name="map1494520202657"><area shape="rect" coords="93.015625,894.015625,777.015625,996.015625" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid001" target="_blank"></map>
 
 **Control multiple devices from the same window**
-![02](https://www.dropbox.com/s/obmyvi5hsar11gk/02.png?dl=1)
+![02](https://lightconupdater.blob.core.windows.net/topas4infopage/Images/Migrate-From-WinTopas3/02.png)
 
 **You can even control Topas/Orpheus from your smartphone**
-![03](https://www.dropbox.com/s/l0t48t7dhe9ixr7/03.png?dl=1)
+![03](https://lightconupdater.blob.core.windows.net/topas4infopage/Images/Migrate-From-WinTopas3/03.png)
 
 
 **Better support for interactions with overlapping wavelength ranges**
-<img src="https://www.dropbox.com/s/30pyuxsdojva235/04.png?dl=1" alt="" usemap="#map1494523577671">
+<img src="https://lightconupdater.blob.core.windows.net/topas4infopage/Images/Migrate-From-WinTopas3/04.png" alt="" usemap="#map1494523577671">
 <map id="map1494523577671" name="map1494523577671"><area shape="rect" coords="1071.000081046875,981.0000200117188,1924.6667470468751,1172.6666860117189" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid002" target="_blank"><area shape="rect" coords="1243.000081046875,603.0000200117188,1954.6667470468751,738.6666860117189" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid006" target="_blank"></map>
 
 
 **Easier and faster calibration modification**
-![05](https://www.dropbox.com/s/3qeoh3d1s5exuha/05.png?dl=1)
+![05](https://lightconupdater.blob.core.windows.net/topas4infopage/Images/Migrate-From-WinTopas3/05.png)
 
 **Smooth wavelength scanner: scan selected wavelength range to achieve quasi-broadband spectrum**
 <video  controls="controls">
-<source src="https://www.dropbox.com/s/2dfh3g3cn7zvqs1/HowToUserSmoothScanner.mp4?dl=1" type="video/mp4" />
+<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToUserSmoothScanner.mp4" type="video/mp4" />
 </video>
 
 **And many other reasons:**
@@ -60,7 +60,7 @@ permalink: /Migrate-From-WinTopas3/
  
  [See here for video instructions](http://domasm.github.io/Topas4Info/How-Tos/#Vid007)
 
-1. [Install WinTopas4 using default settings](https://www.dropbox.com/s/54ccgxua9gch6mt/WinTopas4-setup.exe?dl=1)
+1. [Install WinTopas4 using default settings](https://lightconupdater.blob.core.windows.net/installers/WinTopas4-setup.exe)
 1. Close WinTopas3 application if running
 1. Launch WinTopas4 using icon on desktop 
 1. Click 'Tools>Access Level' and enter the password for advanced user or engineer
@@ -73,7 +73,7 @@ permalink: /Migrate-From-WinTopas3/
 
 
 ### Case B. Installation on another PC
-1. [Install WinTopas4. Check **'Topas3 motor board drivers'** in the second dialog page.](https://www.dropbox.com/s/54ccgxua9gch6mt/WinTopas4-setup.exe?dl=1)
+1. [Install WinTopas4. Check **'Topas3 motor board drivers'** in the second dialog page.](https://lightconupdater.blob.core.windows.net/installers/WinTopas4-setup.exe)
 1. Get .ini and .crv files for the device that you want to use from the PC where WinTopas3 is currently running. 
 1. Connect Topas USB cable to the new PC.
 1. Follow the steps 3-9 as in Case A. You'll have to browse to the .ini files yourself in step 5 instead of selecting them from combo box.
