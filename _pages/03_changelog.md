@@ -19,6 +19,16 @@ permalink: /changelog/
 
 
 
+
+## 1.2.9 (2017-06-07) (beta)
+
+### Fixes
+
+1. (C) Various 'Create/ modify interaction' wavelength range calculation improvements 
+
+
+
+
 ## 1.2.8 (2017-06-05)
 
 ### Changed behaviors
