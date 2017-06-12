@@ -20,6 +20,13 @@ permalink: /changelog/
 
 
 
+## 1.2.10 (2017-06-12) 
+
+### Fixes
+
+1. (S)(FO) Device location code might cause crash when restarting server
+
+
 ## 1.2.9 (2017-06-07) (beta)
 
 ### Fixes
