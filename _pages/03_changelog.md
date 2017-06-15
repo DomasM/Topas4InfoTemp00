@@ -20,6 +20,15 @@ permalink: /changelog/
 
 
 
+## 1.2.11 (2017-06-15)
+
+### Fixes
+
+1. (C)(FN)  'Start Wavelength' in 'Create/Modify interaction' has reasonable fall-back value in case it is can be negative (i.e. using DFP)
+
+
+
+
 ## 1.2.10 (2017-06-12) 
 
 ### Fixes
