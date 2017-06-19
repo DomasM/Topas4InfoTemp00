@@ -28,7 +28,7 @@ permalink: /Migrate-From-WinTopas3/
 
 **Smooth wavelength scanner: scan selected wavelength range to achieve quasi-broadband spectrum**
 <video  controls="controls">
-<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToUserSmoothScanner.mp4" type="video/mp4" />
+<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/SmoothScannerQuickDemo.mp4" type="video/mp4" />
 </video>
 
 **And many other reasons:**
