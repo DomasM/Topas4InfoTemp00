@@ -15,7 +15,17 @@ permalink: /changelog/
 * (S)-Server (Topas4 Server): applies only to server application
 * (FN)-Fixed new: describes correct behavior after bug fix
 * (FO)-Fixed old: describes wrong behavior before bug fix
+* (PA)-Public API: applies to public API
 * beta : auto-updates active only for PCs in Light Conversion local area network
+
+
+
+## 1.3.0 (2017-06-20)
+
+### Changed behaviors
+
+1. (S)(PA) Motor reset (homing) functions are exposed via public API
+1. (C) Named motor positions can be modified with advanced user access level
 
 
 
