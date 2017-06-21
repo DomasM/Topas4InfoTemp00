@@ -1,5 +1,6 @@
 ---
-layout: page: Other How-Tos
+layout: page
+title: Other How-Tos
 permalink: /How-Tos/Other/
 nolink: true
 ---
