@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How-Tos for Service Engineer
-permalink: /Service-Engineer-How-Tos/
+permalink: /How-Tos/Service-Engineer/
 nolink: true
 ---
 
