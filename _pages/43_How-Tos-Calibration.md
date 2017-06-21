@@ -1,5 +1,6 @@
 ---
-layout: page: Calibration How-Tos
+layout: page
+title: Calibration How-Tos
 permalink: /How-Tos/Calibration/
 nolink: true
 ---
