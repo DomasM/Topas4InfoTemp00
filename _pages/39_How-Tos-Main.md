@@ -13,7 +13,7 @@ nolink: true
 
 
 
-## [Calibration](/How-Tos/Calibration/)
+## [Calibration]({{site.baseurl}}/How-Tos/Calibration/)
 + [Modify device calibration]({{site.baseurl}}/How-Tos/Calibration#Vid001)
 + [Correct interaction wavelengths to match actual output]({{site.baseurl}}/How-Tos/Calibration#Vid002)
 + [Respace tuning curve points]({{site.baseurl}}/How-Tos/Calibration#Vid003)
@@ -24,7 +24,7 @@ nolink: true
 
 
 
-## [Manage devices](/How-Tos/Manage-Devices/)
+## [Manage devices]({{site.baseurl}}/How-Tos/Manage-Devices/)
 + [Launch demo device]({{site.baseurl}}/How-Tos/Manage-Devices#Vid001)
 + [Control multiple devices from the same windows]({{site.baseurl}}/How-Tos/Manage-Devices#Vid002)
 + [Restore device configuration from automatic backup]({{site.baseurl}}/How-Tos/Manage-Devices#Vid003)
@@ -32,7 +32,7 @@ nolink: true
 
 
 
-## [Other](/How-Tos/Other/)
+## [Other]({{site.baseurl}}/How-Tos/Other/)
 + [Control device from smartphone/tablet via webpage]({{site.baseurl}}/How-Tos/Other#Vid001)
 + [Control device from smartphone/tablet via webpage]({{site.baseurl}}/How-Tos/Other#Vid002)
 + [Use smooth wavelength scanner]({{site.baseurl}}/How-Tos/Other#Vid003)
