@@ -23,7 +23,7 @@ Advanced user or service access level required.
 Alternatively you can adjust all motors for the point you modify and save all changes at once by following this:
 1.	First of all choose a motor and a point you want to start from.
 2.	Press keyboard button 'M', software will set the point you selected.
-3.	Using keyboard shortcuts 'Alt+[number]' (from 1 to 9 and 0), activate motor you want to adjust. 'Alt+1' will activate 1st motor from the list, 'Alt+5' – 5th and so on. 'Alt+0' will activate 10th motor and there is no keyboard shortcut to select the motors above 10.
+3.	Using keyboard shortcuts 'Alt+[number]' (from 1 to 9 and 0), activate motor you want to adjust. 'Alt+1' will activate 1st motor from the list, 'Alt+5' - 5th and so on. 'Alt+0' will activate 10th motor and there is no keyboard shortcut to select the motors above 10.
 4.	Adjust each motor, required to optimize calibration point, move between motors as many times as you need.
 5.	Press 'Alt+Enter' to save all adjusted motor positions for the point you are modifying and move to the next point.
 6.	Repeat steps 3-5 until all points are recalibrated. No additional save procedure is required, as system already updates tuning curve once you save modified point by pressing 'Enter' or 'Alt+Enter'.
