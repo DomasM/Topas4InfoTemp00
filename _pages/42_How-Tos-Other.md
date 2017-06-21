@@ -41,3 +41,4 @@ All computers, smartphones and tablets must be connected to the same local area 
 <source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToUserSmoothScanner.mp4" type="video/mp4" />
 </video>
 
+
