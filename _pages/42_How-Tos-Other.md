@@ -20,7 +20,7 @@ nolink: true
     Copy address to this how-to
 </button>
 
-All computers must be connected to the same local area network (LAN). Connection from another computer will require to confirm authentication, which is done be repeatedly puling and pushing device’s interlock switch until authentication is complete.
+All computers must be connected to the same local area network (LAN). Connection from another computer will require to confirm authentication, which is done be repeatedly puling and pushing devices interlock switch until authentication is complete.
 
 
 <video  controls="controls">
