@@ -30,25 +30,25 @@ nolink: true
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid003">
     Copy address to this how-to
 </button>
+<video  controls="controls">
+<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToRestoreConfiguration.mp4" type="video/mp4" />
+</video>
 
 Advanced or service user level required
 
 
-<video  controls="controls">
-<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToRestoreConfiguration.mp4" type="video/mp4" />
-</video>
 
 
 ### <a name="Vid004"></a>Manage self-hosts (prevent servers from staring with WinTopas4 and delete old servers)
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid004">
     Copy address to this how-to
 </button>
-
-Advanced or service user level required
-
 <video  controls="controls">
 <source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToManageSelfHosts.mp4" type="video/mp4" />
 </video>
+
+Advanced or service user level required
+
 
 
 
