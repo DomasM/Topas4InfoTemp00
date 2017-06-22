@@ -58,7 +58,7 @@ permalink: /Migrate-From-WinTopas3/
 ### Case A. Installation on the same PC as WinTopas3 is currently running
 **Installation is non-intrusive, meaning that WinTopas3 will be able to function as earlier when WinTopas4 application is closed.**
  
- [See here for video instructions](http://domasm.github.io/Topas4Info/How-Tos/#Vid007)
+
 
 1. [Install WinTopas4 using default settings](https://lightconupdater.blob.core.windows.net/installers/WinTopas4-setup.exe)
 1. Close WinTopas3 application if running
@@ -70,6 +70,11 @@ permalink: /Migrate-From-WinTopas3/
 1. If you have multiple devices connected to the same PC, repeat steps 6-7 for each ini file. **Make sure to use different Topas3 API slot for each device (enter value before launching server).**
 1. Enjoy! All motor settings and calibration curves have been imported!
 
+**Video for case A:**
+
+<video  controls="controls">
+<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToConvertFromTopas3.mp4" type="video/mp4" />
+</video>
 
 
 ### Case B. Installation on another PC
@@ -82,7 +87,11 @@ permalink: /Migrate-From-WinTopas3/
 
 **1. I have multiple .crv files for the same stage (e.g. Mixer2). I see that interactions have been imported only from the one of them!**
 
-You can easily import additional curves from .crv files after conversion. See video ['Import interactions from WinTopas3 .crv files'](http://domasm.github.io/Topas4Info/How-Tos/#Vid006)
+You can easily import additional curves from .crv files after conversion. See video below.
+
+<video  controls="controls">
+<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToImportCalibrationFromWinTopas3CRVFiles.mp4" type="video/mp4" />
+</video>
 
 **2. Can I quickly return to WinTopas3 if something goes wrong?**
 
