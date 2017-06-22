@@ -34,7 +34,7 @@ nolink: true
 
 ## [Other]({{site.baseurl}}/How-Tos/Other/)
 + [Control device from smartphone/tablet via webpage]({{site.baseurl}}/How-Tos/Other#Vid001)
-+ [Control device from smartphone/tablet via webpage]({{site.baseurl}}/How-Tos/Other#Vid002)
++ [Control the same device from multiple clients/computers]({{site.baseurl}}/How-Tos/Other#Vid002)
 + [Use smooth wavelength scanner]({{site.baseurl}}/How-Tos/Other#Vid003)
 
 
