@@ -6,8 +6,8 @@ nolink: true
 ---
 
 
-### <a name="Vid200"></a>Set current decrease factor for motor (or other advanced properties)
-<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid200">
+### <a name="Vid001"></a>Set current decrease factor for motor (or other advanced properties)
+<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid001">
     Copy address to this how-to
 </button>
 <video  controls="controls">
