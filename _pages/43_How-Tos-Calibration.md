@@ -16,6 +16,7 @@ nolink: true
 </video>
 
 Advanced user or service access level required.
+**All calibration modification hotkeys can be found by pressing question button mark next to motor name**
 1.	Go to 'Calibration' >> 'Optical'.
 2.	Locate the interaction you want to modify.
 3.	Choose motor you want to modify, select point from the graph or from the table below.
