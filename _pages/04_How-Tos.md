@@ -5,69 +5,35 @@ permalink: /How-Tos/
 ---
 
 
-### <a name="Vid007"></a>Upgrade from WinTopas3
-<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid007">
-    Copy address to this how-to
-</button>
-<video  controls="controls">
-<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToConvertFromTopas3.mp4" type="video/mp4" />
-</video>
 
-### <a name="Vid003"></a> Lauch demo device
-<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid003">
-    Copy address to this how-to
-</button>
-<video  controls="controls">
-<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToLaunchDemoDevice.mp4" type="video/mp4" />
-</video>
-
-
-### <a name="Vid001"></a>Add a new group to saved motors positions
-<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid001">
-    Copy address to this how-to
-</button>
-<video  controls="controls">
-<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToAddNewSavedMotorPositonsGroup.mp4" type="video/mp4" />
-</video>
-
-
-### <a name="Vid002"></a>Select interaction(s) and create interaction groups
-<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid002">
-    Copy address to this how-to
-</button>
-<video  controls="controls">
-<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToSelectInteractionAndCreateGroups.mp4" type="video/mp4" />
-</video>
+## [Daily operation]({{site.baseurl}}/How-Tos/Daily-Operation/)
++ [Add a new group to saved motor positions]({{site.baseurl}}/How-Tos/Daily-Operation#Vid001)
++ [Select interaction(s) and create interaction groups]({{site.baseurl}}/How-Tos/Daily-Operation#Vid002)
 
 
 
-
-### <a name="Vid004"></a>Use smooth wavelength scanner
-<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid004">
-    Copy address to this how-to
-</button>
-<video  controls="controls">
-<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToUserSmoothScanner.mp4" type="video/mp4" />
-</video>
-
-
-
-### <a name="Vid005"></a>Restore device configuration from automatic backup
-<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid005">
-    Copy address to this how-to
-</button>
-<video  controls="controls">
-<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToRestoreConfiguration.mp4" type="video/mp4" />
-</video>
+## [Calibration]({{site.baseurl}}/How-Tos/Calibration/)
++ [Modify device calibration]({{site.baseurl}}/How-Tos/Calibration#Vid001)
++ [Correct interaction wavelengths to match actual output]({{site.baseurl}}/How-Tos/Calibration#Vid002)
++ [Respace tuning curve points]({{site.baseurl}}/How-Tos/Calibration#Vid003)
++ [Recalculate Idler wavelengths after pump wavelength modification]({{site.baseurl}}/How-Tos/Calibration#Vid004)
++ [Rename named motor position]({{site.baseurl}}/How-Tos/Calibration#Vid005)
++ [Change motor value for named motor position]({{site.baseurl}}/How-Tos/Calibration#Vid006)
++ [Add/modify neutral motor position]({{site.baseurl}}/How-Tos/Calibration#Vid007)
 
 
 
-### <a name="Vid006"></a>Import interactions from WinTopas3 .crv files
-<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid006">
-    Copy address to this how-to
-</button>
-<video  controls="controls">
-<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToImportCalibrationFromWinTopas3CRVFiles.mp4" type="video/mp4" />
-</video>
+## [Manage devices]({{site.baseurl}}/How-Tos/Manage-Devices/)
++ [Launch demo device]({{site.baseurl}}/How-Tos/Manage-Devices#Vid001)
++ [Control multiple devices from the same windows]({{site.baseurl}}/How-Tos/Manage-Devices#Vid002)
++ [Restore device configuration from automatic backup]({{site.baseurl}}/How-Tos/Manage-Devices#Vid003)
++ [Manage self-hosts (prevent servers from staring with WinTopas4 and delete old servers)]({{site.baseurl}}/How-Tos/Manage-Devices#Vid004)
+
+
+
+## [Other]({{site.baseurl}}/How-Tos/Other/)
++ [Control device from smartphone/tablet via webpage]({{site.baseurl}}/How-Tos/Other#Vid001)
++ [Control the same device from multiple clients/computers]({{site.baseurl}}/How-Tos/Other#Vid002)
++ [Use smooth wavelength scanner]({{site.baseurl}}/How-Tos/Other#Vid003)
 
 
