@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other How-Tos
+title: Backup and Restore How-Tos
 permalink: /How-Tos/Backup-and-Restore/
 nolink: true
 ---
