@@ -26,16 +26,6 @@ nolink: true
 </video>
 
 
-### <a name="Vid003"></a>Restore device configuration from automatic backup
-<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid003">
-    Copy address to this how-to
-</button>
-<video  controls="controls">
-<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToRestoreConfiguration.mp4" type="video/mp4" />
-</video>
-
-Advanced or service user level required
-
 
 
 

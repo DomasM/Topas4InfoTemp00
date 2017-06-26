@@ -26,13 +26,13 @@ permalink: /How-Tos/
 ## [Manage devices]({{site.baseurl}}/How-Tos/Manage-Devices/)
 + [Launch demo device]({{site.baseurl}}/How-Tos/Manage-Devices#Vid001)
 + [Control multiple devices from the same windows]({{site.baseurl}}/How-Tos/Manage-Devices#Vid002)
-+ [Restore device configuration from automatic backup]({{site.baseurl}}/How-Tos/Manage-Devices#Vid003)
 + [Manage self-hosts (prevent servers from staring with WinTopas4 and delete old servers)]({{site.baseurl}}/How-Tos/Manage-Devices#Vid004)
 
 
 ## [Backup and Restore]({{site.baseurl}}/How-Tos/Backup-and-Restore/)
 + [Backup device configuration to a zip file]({{site.baseurl}}/How-Tos/Backup-and-Restore#Vid001)
 + [Restore device configuration from a zip file]({{site.baseurl}}/How-Tos/Backup-and-Restore#Vid002)
++ [Restore device configuration from automatic backup]({{site.baseurl}}/How-Tos/Backup-and-Restore#Vid003)
 
 
 
