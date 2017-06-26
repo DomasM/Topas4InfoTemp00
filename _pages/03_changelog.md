@@ -20,6 +20,18 @@ permalink: /changelog/
 
 
 
+## 1.3.1 (2017-06-26)
+
+### Fixes
+
+1. (C)(FO) Tabbing navigation does not work in 'Smooth Scanner' view
+
+### New features
+
+1. (C) Add step scanner tool (Misc tab)
+
+
+
 ## 1.3.0 (2017-06-20)
 
 ### Changed behaviors
