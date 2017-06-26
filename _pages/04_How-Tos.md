@@ -30,7 +30,7 @@ permalink: /How-Tos/
 + [Manage self-hosts (prevent servers from staring with WinTopas4 and delete old servers)]({{site.baseurl}}/How-Tos/Manage-Devices#Vid004)
 
 
-## [Manage devices]({{site.baseurl}}/How-Tos/Backup-and-Restore/)
+## [Backup and Restore]({{site.baseurl}}/How-Tos/Backup-and-Restore/)
 + [Backup device configuration to a zip file]({{site.baseurl}}/How-Tos/Backup-and-Restore#Vid001)
 + [Restore device configuration from a zip file]({{site.baseurl}}/How-Tos/Backup-and-Restore#Vid002)
 
