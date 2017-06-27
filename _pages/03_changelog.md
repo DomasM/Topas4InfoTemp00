@@ -20,6 +20,16 @@ permalink: /changelog/
 
 
 
+## 1.3.2 (2017-06-27) (beta)
+
+
+### New features
+
+1. Add motor modules diagnostics tool ('Misc' tab, 'Diagnostics') (new unmanaged Topas3 dlls v3.3.0.52)
+
+
+
+
 ## 1.3.1 (2017-06-26)
 
 ### Fixes
