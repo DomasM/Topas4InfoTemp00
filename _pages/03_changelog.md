@@ -20,6 +20,16 @@ permalink: /changelog/
 
 
 
+## 1.3.3 (2017-06-27) (beta)
+
+
+### New features
+
+1. Add 'Restart server' button to Motor Testing Workbench
+
+
+
+
 ## 1.3.2 (2017-06-27) (beta)
 
 
