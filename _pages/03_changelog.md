@@ -21,6 +21,20 @@ permalink: /changelog/
 
 
 
+## 1.4.0 (2017-06-12)
+
+### New features
+
+1. Add basic Pharos control from WinTopas4 via Topas4Server if connection is configured (Alt+E for on demand pop-op control)
+1. (C) Add new hotkey for shutter: Ctrl+NumPad0
+
+### Changed behaviors
+
+1. (C) Motor board drivers are installed by default
+
+
+
+
 ## 1.3.4 (2017-06-29)
 
 

@@ -78,7 +78,7 @@ permalink: /Migrate-From-WinTopas3/
 
 
 ### Case B. Installation on another PC
-1. [Install WinTopas4. Check **'Topas3 motor board drivers'** in the second dialog page.](https://lightconupdater.blob.core.windows.net/installers/WinTopas4-setup.exe)
+1. [Install WinTopas4 using default settings](https://lightconupdater.blob.core.windows.net/installers/WinTopas4-setup.exe)
 1. Get .ini and .crv files for the device that you want to use from the PC where WinTopas3 is currently running. 
 1. Connect Topas USB cable to the new PC.
 1. Follow the steps 3-9 as in Case A. You'll have to browse to the .ini files yourself in step 5 instead of selecting them from combo box.
