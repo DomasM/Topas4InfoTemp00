@@ -21,7 +21,7 @@ permalink: /changelog/
 
 
 
-## 1.4.0 (2017-06-12)
+## 1.4.0 (2017-07-12)
 
 ### New features
 
