@@ -25,7 +25,7 @@ permalink: /changelog/
 
 ### New features
 
-1. Add basic Pharos control from WinTopas4 via Topas4Server if connection is configured (Alt+E for on demand pop-op control)
+1. Add basic Pharos control from WinTopas4 via Topas4Server if connection is configured 
 1. (C) Add new hotkey for shutter: Ctrl+NumPad0
 
 ### Changed behaviors
