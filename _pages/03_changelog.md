@@ -21,6 +21,18 @@ permalink: /changelog/
 
 
 
+## 1.4.1 (2017-07-13)
+
+### New features
+
+1. (C) Motor properties window can be opened directly from 'Testing workbench' (mouse right click)
+
+### Changed behaviors
+
+1. (C) Self-hosted servers can be managed with advanced user access level
+
+
+
 ## 1.4.0 (2017-07-12)
 
 ### New features
