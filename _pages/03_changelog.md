@@ -21,6 +21,15 @@ permalink: /changelog/
 
 
 
+## 1.4.2 (2017-07-17)
+
+### New features
+
+1. (S) 'Saved motor positions' service is in public API
+
+
+
+
 ## 1.4.1 (2017-07-13)
 
 ### New features
