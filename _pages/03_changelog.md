@@ -20,6 +20,14 @@ permalink: /changelog/
 
 
 
+## 1.5.0 (2017-07-25) (beta)
+
+### New features
+
+1. Each device has a model included in configuration (Topas-Prime, Orpheus-F, etc)
+
+
+
 
 ## 1.4.2 (2017-07-17)
 
