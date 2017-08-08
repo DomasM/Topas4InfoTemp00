@@ -20,6 +20,14 @@ permalink: /changelog/
 
 
 
+## 1.5.1 (2017-08-08) (beta)
+
+### New features
+
+1. (C) User can change serial number of device and motor board before launching device from zipped configuration
+
+
+
 ## 1.5.0 (2017-07-25) (beta)
 
 ### New features
