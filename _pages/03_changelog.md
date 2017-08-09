@@ -24,7 +24,7 @@ permalink: /changelog/
 
 ### Fixes
 
-1. (C) User can change serial number of device and motor board before launching device from zipped configuration
+1. (C)(FO) Application crashes if user tries to modify motor curve and this curve does not cover currently set wavelength
 
 
 
