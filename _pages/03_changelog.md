@@ -20,6 +20,30 @@ permalink: /changelog/
 
 
 
+## 1.6.2 (2017-08-11) 
+
+### Fixes
+
+1. (C)(FO) Application might get stuck in zombie state on startup with no visible window
+
+
+
+## 1.6.1 (2017-08-11)
+
+### No changes
+
+
+
+## 1.6.0 (2017-08-11) 
+
+### Changed behaviors
+
+1. (S) Communication with motor board using WinUSB directly (TopasAPI.dll no longer used) beta, enabled inside LC only
+1. (C) Motor Diagnostics tool has nicer UI
+
+
+
+
 ## 1.5.2 (2017-08-09) 
 
 ### Fixes
