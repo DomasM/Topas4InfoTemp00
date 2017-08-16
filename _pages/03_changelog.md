@@ -20,6 +20,18 @@ permalink: /changelog/
 
 
 
+## 1.6.3 (2017-08-16) 
+
+### Fixes
+
+1. (C)(FO) DIY installer creator timeouts after 5 minutes, which is too soon
+
+
+### New features
+
+1. (C) WinTopas4 can be launched with NoAutoLaunch argument (--NoAutoLaunch) to prevent self-hosts launch. 'Manage devices' tool can be used to launch device later on.
+
+
 ## 1.6.2 (2017-08-11) 
 
 ### Fixes
