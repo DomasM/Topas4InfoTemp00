@@ -20,6 +20,16 @@ permalink: /changelog/
 
 
 
+## 1.6.4 (2017-08-18) 
+
+### New Features
+
+1. Backlash compensation 
+1. Function to set motor affix to such value that current position is 0 units
+
+
+
+
 ## 1.6.3 (2017-08-16) 
 
 ### Fixes
@@ -30,6 +40,7 @@ permalink: /changelog/
 ### New features
 
 1. (C) WinTopas4 can be launched with NoAutoLaunch argument (--NoAutoLaunch) to prevent self-hosts launch. 'Manage devices' tool can be used to launch device later on.
+
 
 
 ## 1.6.2 (2017-08-11) 
