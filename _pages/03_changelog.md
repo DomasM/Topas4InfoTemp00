@@ -20,12 +20,20 @@ permalink: /changelog/
 
 
 
+## 1.6.5 (2017-08-21) 
+
+### Fixes
+
+1. (C)(FO) Affix can't be changed by entering new value, only using button 'To 0'
+
+
+
 ## 1.6.4 (2017-08-18) 
 
 ### New Features
 
 1. Backlash compensation 
-1. Function to set motor affix to such value that current position is 0 units
+1. (C) Function to set motor affix to such value that current position is 0 units
 
 
 
