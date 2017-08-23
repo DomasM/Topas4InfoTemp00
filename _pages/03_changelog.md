@@ -20,6 +20,15 @@ permalink: /changelog/
 
 
 
+## 1.6.6 (2017-08-23) 
+
+### New Features
+
+1. (C) User can import separation images from zipped configuration
+
+
+
+
 ## 1.6.5 (2017-08-21) 
 
 ### Fixes
