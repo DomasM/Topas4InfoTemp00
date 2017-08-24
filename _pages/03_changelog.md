@@ -20,6 +20,16 @@ permalink: /changelog/
 
 
 
+
+## 1.6.7 (2017-08-24) 
+
+### Fixes
+
+1. (S)(FO) Wrong motor diagnostics status is returned for section if it contains hidden motors
+
+
+
+
 ## 1.6.6 (2017-08-23) 
 
 ### New Features
