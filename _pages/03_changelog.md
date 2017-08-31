@@ -20,6 +20,20 @@ permalink: /changelog/
 
 
 
+## 1.6.8 (2017-08-31) 
+
+### Fixes
+
+1. (S)(FO) Reset latch difference is calculated from second movement to switch
+
+### Changed behaviors
+
+1. (S) Direct communication with motor board using WinUSB enabled for boards with six-motor extension boards
+1. (C) Various new access keys, "Save current position" changed to Alt+P 
+1. (C) NumPad keys can be used to focus motors too
+
+
+
 
 ## 1.6.7 (2017-08-24) 
 
