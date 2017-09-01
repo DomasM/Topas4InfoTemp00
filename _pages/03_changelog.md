@@ -20,6 +20,15 @@ permalink: /changelog/
 
 
 
+## 1.6.9 (2017-09-01) 
+
+### Fixes
+
+1. (S)(FO) Server setting wavelength for other device on the same PC doesn't use loopback address >> no authentication
+
+
+
+
 ## 1.6.8 (2017-08-31) 
 
 ### Fixes
