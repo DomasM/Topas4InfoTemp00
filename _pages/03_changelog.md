@@ -20,6 +20,16 @@ permalink: /changelog/
 
 
 
+## 1.7.0 (2017-09-06) (beta)
+
+### Changed behaviors
+
+1. (C) Change shutter button style and size, move 'Interactions' and 'Messages' buttons
+1. (C) Remove button 'Shift curve by current difference' in motor curve view 
+1. (C) First result of reset operation is ignored in 'Testing workbench'
+
+
+
 ## 1.6.9 (2017-09-01) 
 
 ### Fixes
