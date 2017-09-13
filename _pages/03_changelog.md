@@ -20,6 +20,19 @@ permalink: /changelog/
 
 
 
+## 1.7.1 (2017-09-13) 
+
+### Fixes
+
+1. (C)(FN) Interactions input-output relationship points are ordered in interaction view table
+1. (C)(FN) Correct name generation for cloned interactions
+
+### Changed behaviors
+
+1. (C) New shutter button style applied to mini mode window
+
+
+
 ## 1.7.0 (2017-09-06) (beta)
 
 ### Changed behaviors
