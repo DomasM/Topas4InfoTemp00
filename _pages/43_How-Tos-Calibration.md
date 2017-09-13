@@ -67,6 +67,21 @@ Advanced user or service access level required. This procedure is usually perfor
 4.	Choose start and end wavelength points together with the step size, press 'Respace' (consult support team for proper tuning curve spacing).
 Depending on the corrections it might be necessary to re-optimize individual points from the calibration curve depending on the system performance. You can respace different parts of the same tuning curve with different step size.
 
+### <a name="Vid008"></a>Extend calibration range of interaction
+<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid008">
+    Copy address to this how-to
+</button>
+<video  controls="controls">
+<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/HowToExtendInteractionCalibrationRange.mp4" type="video/mp4" />
+</video>
+
+Advanced user or service access level required.
+1.	Go to 'Calibration' >> 'Create/modify interaction'.
+2.	Enter name of interaction you want to modify in field 'Full interaction'. There is no need to select motors.
+3.	Enter new start wavelength  (end wavelength will be the same).
+4. Calibrate new points as usually.
+5. Once you reach already-calibrated wavelengths you can click 'Finish' button.
+
 
 ### <a name="Vid004"></a>Recalculate Idler wavelengths after pump wavelength modification
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid004">
