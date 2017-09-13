@@ -16,6 +16,7 @@ permalink: /How-Tos/
 + [Modify device calibration]({{site.baseurl}}/How-Tos/Calibration#Vid001)
 + [Correct interaction wavelengths to match actual output]({{site.baseurl}}/How-Tos/Calibration#Vid002)
 + [Respace tuning curve points]({{site.baseurl}}/How-Tos/Calibration#Vid003)
++ [Extend calibration range of interaction]({{site.baseurl}}/How-Tos/Calibration#Vid008)
 + [Recalculate Idler wavelengths after pump wavelength modification]({{site.baseurl}}/How-Tos/Calibration#Vid004)
 + [Rename named motor position]({{site.baseurl}}/How-Tos/Calibration#Vid005)
 + [Change motor value for named motor position]({{site.baseurl}}/How-Tos/Calibration#Vid006)
