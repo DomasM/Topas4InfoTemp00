@@ -20,6 +20,15 @@ permalink: /changelog/
 
 
 
+## 1.8.0 (2017-09-22) 
+
+### New Features
+
+1. (C) Wavenumber (cm-1) can be used instead of wavelength to set output
+1. (C) Multi-line separation messages can be entered
+
+
+
 ## 1.7.1 (2017-09-13) 
 
 ### Fixes
