@@ -76,7 +76,7 @@ Depending on the corrections it might be necessary to re-optimize individual poi
 </video>
 
 Advanced user or service access level required.
-1.	Go to 'Calibration' >> 'Create/modify interaction'.
+1.	Go to 'Calibration' >> 'Create interaction'.
 2.	Enter name of interaction you want to modify in field 'Full interaction'. There is no need to select motors.
 3.	Enter new start wavelength  (end wavelength will be the same).
 4. Calibrate new points as usually.

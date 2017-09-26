@@ -20,6 +20,18 @@ permalink: /changelog/
 
 
 
+## 1.8.1 (2017-09-26) 
+
+### New Features
+
+1. (C) Tool to recalculate input-output wavelength relationship with new pump wavelength (SF, DFP, DFG)
+
+### Changed behaviors
+
+1. (C) 'Create/Modify interaction' renamed to 'Create interaction'
+
+
+
 ## 1.8.0 (2017-09-22) 
 
 ### New Features
@@ -264,7 +276,7 @@ permalink: /changelog/
 
 ### Fixes
 
-1. (C)(FN)  'Start Wavelength' in 'Create/Modify interaction' has reasonable fall-back value in case it is can be negative (i.e. using DFP)
+1. (C)(FN)  'Start Wavelength' in 'Create interaction' has reasonable fall-back value in case it is can be negative (i.e. using DFP)
 
 
 
@@ -280,7 +292,7 @@ permalink: /changelog/
 
 ### Fixes
 
-1. (C) Various 'Create/ modify interaction' wavelength range calculation improvements 
+1. (C) Various 'Create interaction' wavelength range calculation improvements 
 
 
 
@@ -456,7 +468,7 @@ permalink: /changelog/
 ### Fixes
 
 1. (C)(FO) Position for motor curve with additive calibration is saved with no regard that it is additive when modifying motor curve in Calibration>Optical tab
-1. (C)(FO) Motor curve with additive calibration is moved to wrong position when modifying interaction in Create/modify interaction tool
+1. (C)(FO) Motor curve with additive calibration is moved to wrong position when modifying interaction in 'Create interaction' tool
 1. (C)(FO) Copy-pasting interaction input points does not handle decimal separator well
 
 ### New features
@@ -536,7 +548,7 @@ No changes
 
 ### Fixes
 
-1. (C)(FO) Create/modify interaction tool crashes due invalid TwoWay binding
+1. (C)(FO) 'Create interaction' tool crashes due invalid TwoWay binding
 
 
 
@@ -578,7 +590,7 @@ No changes
 
 ### Fixes
 
-1. (C)(FO) CMP-SIG template in Create/modify interaction tab uses SIG as mapping wavelength mapping function
+1. (C)(FO) CMP-SIG template in Create interaction tab uses SIG as mapping wavelength mapping function
 2. (C)(FO) Saved motors positions list in single device tab does not show vertical scrollbar if there isn't enough space
 
 
@@ -625,7 +637,7 @@ No changes
 1. (FO) Device location might not work if PC isn't connected to LAN
 1. (C)(FO) When connecting to new device in client application, named motor positions and forbidden ranges might not be synced
 1. (C)(FO) Motor curves, if they have points with 'None' interpolation, are incorrectly converted  when using SIG<>IDL conversion with explicit IDL motor curves
-1. (C)(FN) 'Calibration>Create/modify interaction' informs user if end wavelength<=start wavelength
+1. (C)(FN) 'Calibration>Create interaction' informs user if end wavelength<=start wavelength
 
 ### New features
 
