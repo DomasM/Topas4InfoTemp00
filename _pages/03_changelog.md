@@ -20,6 +20,22 @@ permalink: /changelog/
 
 
 
+## 1.8.2 (2017-09-26) 
+
+### New Features
+
+1. Motor can be frozen, meaning it won't move (server-side)
+
+### Changed behaviors
+
+1. (S) Direct communication with motor board using WinUSB is enabled inside LC by default
+
+### Fixes
+
+1. (C)(FO) Set wavelength, move motor so that wavelength is not strict, press enter on wavelength textbox, nothing happens (since 1.8.0)
+
+
+
 ## 1.8.1 (2017-09-26) 
 
 ### New Features
