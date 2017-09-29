@@ -19,6 +19,12 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 1.8.3 (2017-09-29) 
+
+### Fixes
+
+1. (C)(FO) Some buttons where invisible in motor properties view (since 1.8.2)
+
 
 ## 1.8.2 (2017-09-26) 
 
