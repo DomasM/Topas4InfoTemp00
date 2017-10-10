@@ -33,6 +33,27 @@ Alternatively you can adjust all motors for the point you modify and save all ch
 6.	Repeat steps 3-5 until all points are recalibrated. No additional save procedure is required, as system already updates tuning curve once you save modified point by pressing 'Enter' or 'Alt+Enter'.
 
 
+### <a name="Vid008"></a>Set calibration curve offset 
+<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid008">
+    Copy address to this how-to
+</button>
+<video  controls="controls">
+<source src="https://lightconupdater.blob.core.windows.net/topas4infopage/Videos/SetCalibrationCurveOffset.mp4" type="video/mp4" />
+</video>
+
+Advanced user or service access level required.
+1. Go to 'Calibration' >> 'Optical'.
+2. Locate the interaction you want to modify.
+3. Choose motor for which you want to set an offset modify. 
+4. Select wavelength (point) from the graph or from the table below.
+5. Press keyboard button 'M', software will set the point you selected.
+6. Adjust the motor by pressing buttons 'Up', 'Down', 'Left' or 'Right' (also 'Page Up' and 'Page Down' for coarse adjustment).
+7. Press 'Set offset' (located under the graph) to set an offset for the calibration curve of the selected motor.
+
+Optional: To make offset permanent to the calibration curve press 'Shift curve to make offset zero' on the right to 'Set offset'. This function adds or subtracts offset value from the current calibration curve.
+
+
+
 ### <a name="Vid002"></a>Correct interaction wavelengths to match actual output
 <button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid002">
     Copy address to this how-to
