@@ -14,7 +14,7 @@ permalink: /How-Tos/
 
 ## [Calibration]({{site.baseurl}}/How-Tos/Calibration/)
 + [Modify device calibration]({{site.baseurl}}/How-Tos/Calibration#Vid001)
-+ [Set calibration curve offset ]({{site.baseurl}}/How-Tos/Calibration#Vid008)
++ [Set calibration curve offset ]({{site.baseurl}}/How-Tos/Calibration#Vid009)
 + [Correct interaction wavelengths to match actual output]({{site.baseurl}}/How-Tos/Calibration#Vid002)
 + [Respace tuning curve points]({{site.baseurl}}/How-Tos/Calibration#Vid003)
 + [Extend calibration range of interaction]({{site.baseurl}}/How-Tos/Calibration#Vid008)

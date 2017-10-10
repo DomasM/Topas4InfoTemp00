@@ -33,8 +33,8 @@ Alternatively you can adjust all motors for the point you modify and save all ch
 6.	Repeat steps 3-5 until all points are recalibrated. No additional save procedure is required, as system already updates tuning curve once you save modified point by pressing 'Enter' or 'Alt+Enter'.
 
 
-### <a name="Vid008"></a>Set calibration curve offset 
-<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid008">
+### <a name="Vid009"></a>Set calibration curve offset 
+<button class="btn" data-clipboard-text="{{site.fullUrl}}{{page.url}}#Vid009">
     Copy address to this how-to
 </button>
 <video  controls="controls">
