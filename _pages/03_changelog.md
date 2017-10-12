@@ -19,6 +19,22 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 1.9.0 (2017-10-12) 
+
+### Fixes
+
+1. (C)(FO) In 'Calibration>Optical>Create new' input-output curve points have wrong range if parent interaction supports bigger range than user selected to calibrate
+
+
+### New Features
+
+1. (S) Mixed motors hardware support
+1. (S) Physik Instrumente (PI) delay stages support
+1. (C) User can be prompted to accept EULA anytime ('Tools>Request accept user license agreement')
+
+
+
+
 ## 1.8.3 (2017-09-29) 
 
 ### Fixes
