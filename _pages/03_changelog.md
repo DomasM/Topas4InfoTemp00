@@ -19,6 +19,20 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 1.9.1 (2017-10-19) 
+
+### New Features
+
+1. (C) Show number of wavelength range gaps in calibration and where they are (except in User access level)
+
+### Changed behaviors
+
+1. (C) Separation messages are no longer grouped by device when shown to user, new way of arrangement and sizing, picture enlargement tooltip 
+2. (C) On optical device import do not skip interactions that already exist (i.e. interactions with the same name)
+
+
+
+
 ## 1.9.0 (2017-10-12) 
 
 ### Fixes
