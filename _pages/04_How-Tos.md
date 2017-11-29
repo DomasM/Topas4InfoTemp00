@@ -42,5 +42,6 @@ permalink: /How-Tos/
 + [Control device from smartphone/tablet via webpage]({{site.baseurl}}/How-Tos/Other#Vid001)
 + [Control the same device from multiple clients/computers]({{site.baseurl}}/How-Tos/Other#Vid002)
 + [Use smooth wavelength scanner]({{site.baseurl}}/How-Tos/Other#Vid003)
++ [Enable Pharos laser control from WinTopas4]({{site.baseurl}}/How-Tos/Other#Vid004)
 
 
