@@ -19,6 +19,28 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+
+## 1.10.0 (2017-11-29) (beta)
+
+### Fixes
+
+1. (C)(FO) DIY installer creator packs disabled devices in installer
+1. (C)(FN) Grating motor curve is recalculated even if it exists when modifying interaction
+1. (C)(FO) Additive calibration curves might cause false positive sanity check error ('Motor position is out of range') 
+1. (S)(FN) Motor maximal and minimal velocities are checked to be lower than 4096
+
+### New Features
+
+1. Neutral positions in optical calibration can use named motor positions
+1. (S) Support for motors with custom reset logic
+1. Position of named motor position can be quickly changed to current motor position from main motor control, by right clicking on the button or combo-box entry
+
+### Changed behaviors
+1. (C) Default curve interpolation mode is linear (was spline)
+1. (C) Check DIY installer creator executable file size
+
+
+
 ## 1.9.1 (2017-10-19) 
 
 ### New Features
