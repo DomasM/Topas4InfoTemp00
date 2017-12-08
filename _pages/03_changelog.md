@@ -19,6 +19,16 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 1.11.0 (2017-12-08) (beta)
+
+
+### Changed behaviors
+1. Internal changes to make code compatible with .NET Standard 2.0
+1. (S) More push notifications via websocket
+1. (C) Disable separation images tooltip
+1. (C) On separation images upload check their resolution
+
+
 
 ## 1.10.0 (2017-11-29) (beta), (2017-12-08) (public)
 
