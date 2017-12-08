@@ -19,6 +19,15 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+
+## 1.11.1 (2017-12-08) (beta)
+
+
+### Fixes
+1. (C) Hotfix for 1.10.0, websocket client is supported only from Windows 8
+
+
+
 ## 1.11.0 (2017-12-08) (beta)
 
 
