@@ -20,6 +20,22 @@ permalink: /changelog/
 
 
 
+## 1.11.3 (2017-12-12) (beta)
+
+
+### Fixes
+1. (S)(FO) Shutter can be reported as open  even if interlock is activated
+
+
+
+## 1.11.2 (2017-12-11) (beta)
+
+
+### Fixes
+1. (S)(FO) Set wavelength, move motors, so wavelength is unset, OutputData.IsWaitingForUserAction is reported as true
+
+
+
 ## 1.11.1 (2017-12-08) (beta)
 
 
