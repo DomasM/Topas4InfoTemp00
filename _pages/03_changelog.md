@@ -20,6 +20,15 @@ permalink: /changelog/
 
 
 
+## 1.11.5 (2017-12-13) (beta)
+
+
+### Fixes
+1. (C)(FO) Existing curve offset is not taken into account when calculating motor position in 'Calibration>Optical>Create new'
+
+
+
+
 ## 1.11.4 (2017-12-13) (beta)
 
 
