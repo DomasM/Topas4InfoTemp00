@@ -55,7 +55,7 @@ C:\WINDOWS\system32>ipconfig /all   | find "Preferred"   | find "IPv4"   & pause
 Press any key to continue . . .
 ```
 4. Find window of Topas4Server application you want to associate with Pharos. Press 'Stop', then F11.
-5. In newly opened File Explorer window you will see file LaserControl.json, open it with notepad or more reasonable text editor of you choice.
+5. In newly opened File Explorer window you will see file LaserControl.json, open it with notepad or more reasonable text editor of your choice.
 6. Enter correct IP address. If you have PharosUserApp and Topas4Server on the same PC, just enter 127.0.0.1, otherwise enter value you saw in command line window (192.168.8.191 in this example). Now your file should look like this:
 ```json
 {
