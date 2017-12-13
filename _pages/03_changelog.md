@@ -20,6 +20,13 @@ permalink: /changelog/
 
 
 
+## 1.11.4 (2017-12-13) (beta)
+
+
+### Fixes
+1. (C)(FO) Can't set device model
+
+
 ## 1.11.3 (2017-12-12) (beta)
 
 
