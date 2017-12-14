@@ -20,6 +20,18 @@ permalink: /changelog/
 
 
 
+## 1.11.6 (2017-12-14) (beta)
+
+
+### Fixes
+1. (S)(FO) Output can not be set if it contains no motor positions
+1. (C)(FO) Can't save device configuration as zip file if resulting zip file is larger than 10MB
+
+### Changed behaviors
+1. (C) Completed actions in separation images are no longer greyed out
+
+
+
 ## 1.11.5 (2017-12-13) (beta)
 
 
