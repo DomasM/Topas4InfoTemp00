@@ -20,6 +20,13 @@ permalink: /changelog/
 
 
 
+## 1.11.7 (2017-12-22) (beta)
+
+
+### Fixes
+1. (C)(FO) Motor "Find position" tool can fail to restore maximal motor speed to original (partial fix)
+
+
 ## 1.11.6 (2017-12-14) (beta)
 
 
