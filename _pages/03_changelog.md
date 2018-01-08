@@ -20,7 +20,7 @@ permalink: /changelog/
 
 
 
-## 1.11.7 (2017-12-22) (beta)
+## 1.11.7 (2017-12-22) (beta), (2018-01-08) (public)
 
 
 ### Fixes
