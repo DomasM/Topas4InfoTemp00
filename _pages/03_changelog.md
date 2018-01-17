@@ -19,6 +19,20 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 1.12.0 (2018-01-17) (beta)
+
+
+### Fixes
+1. (C)(FO) When user tries to set wavelength which can not be set, message is displayed two or three times
+1. (C)(FO) 'Change pump wavelength' might leave input-output and motor curves with slightly different ranges 
+
+### New Features
+
+1. Interaction can be marked as for as for indirect use only (i.e. only as intermediate for other interactions, but not as the output itself)
+1. (S) Software motor power down (set current to 0 after 5 seconds of inactivity)
+1. (S) Try to stop/start server when PC goes to sleep/wake ups
+
+
 
 ## 1.11.7 (2017-12-22) (beta), (2018-01-08) (public)
 
