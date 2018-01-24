@@ -19,6 +19,13 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
+## 1.12.1 (2018-01-24) (beta)
+
+
+### Fixes
+1. (S)(FO) All hardware failures are reported as critical and affection authentication possibility
+
+
 ## 1.12.0 (2018-01-17) (beta)
 
 
