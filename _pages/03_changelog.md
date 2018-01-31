@@ -29,7 +29,7 @@ permalink: /changelog/
 
 ### New Features
 
-1. 'Interactions' button indicated when there is more than one interaction that supports current wavelength
+1. 'Interactions' button indicates when there is more than one interaction that supports current wavelength
 
 
 
