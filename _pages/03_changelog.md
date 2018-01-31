@@ -19,12 +19,27 @@ permalink: /changelog/
 * beta : auto-updates active only for PCs in Light Conversion local area network
 
 
-## 1.12.2 (2018-01-26) (beta)
+
+
+## 1.12.3 (2018-01-31) (beta)
+
+
+### Fixes
+1. (S)(FO) Motor reset is canceled after 3 minutes, clients are not notified about failure
+
+### New Features
+
+1. 'Interactions' button indicated when there is more than one interaction that supports current wavelength
+
+
+
+## 1.12.2 (2018-01-26) (beta), (2018-01-31) (public)
 
 
 ### Fixes
 1. (C)(FO) Multiple instances of Step scanner window can be opened, leading to erratic behavior
 1. (C)(FO) Wavelengths set by Step scanner  might be off by about by about 1E-11 nm
+
 
 
 ## 1.12.1 (2018-01-24) (beta), (2018-01-26) (public)
