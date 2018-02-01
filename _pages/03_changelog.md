@@ -20,8 +20,14 @@ permalink: /changelog/
 
 
 
+## 1.12.4 (2018-02-01) (beta)
 
-## 1.12.3 (2018-01-31) (beta)
+
+### Fixes
+1. (C)(FO) Delete/inactivate self hosted server does not work if server is stopped, but application is open. Faster delete/inactivate
+
+
+## 1.12.3 (2018-01-31) (beta), (2018-02-01) (public)
 
 
 ### Fixes
