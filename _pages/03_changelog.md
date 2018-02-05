@@ -20,6 +20,16 @@ permalink: /changelog/
 
 
 
+## 1.14.0 (2018-02-05) (beta)
+
+### Changed behaviors
+
+1. (S) Direct USB communication is used everywhere instead of Topas3API. API slot number checks removed.
+
+### New Features
+1. (S) Press F10 to enumerate all Topas3 boards connected to the PC. Board already in use won't be reported.
+
+
 ## 1.12.4 (2018-02-01) (beta)
 
 
