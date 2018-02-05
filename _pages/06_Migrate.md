@@ -15,10 +15,19 @@ permalink: /Migrate-From-WinTopas3/
 ![02](https://lightconupdater.blob.core.windows.net/topas4infopage/Images/Migrate-From-WinTopas3/02.png)
 
 **You can even control Topas/Orpheus from your smartphone**
-![03](https://lightconupdater.blob.core.windows.net/topas4infopage/Images/Migrate-From-WinTopas3/03.png)
+
+
+<div style="display:flex; flex-direction: row; justify-content: left; align-items: left">
+     <a href='https://play.google.com/store/apps/details?id=com.LightConversion.WinTopas4&utm_source=topas4info&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height="82" alt='Get it on Google Play' src='https://lightconupdater.blob.core.windows.net/topas4infopage/Images/Migrate-From-WinTopas3/google-play-badge.png'/></a>
+
+<a href="https://itunes.apple.com/us/app/evernote/id281796108?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:270px;height:80px;background-size:contain;"></a>
+</div>
 
 
 **Better support for interactions with overlapping wavelength ranges**
+
+
+
 <img src="https://lightconupdater.blob.core.windows.net/topas4infopage/Images/Migrate-From-WinTopas3/04.png" alt="" usemap="#map1494523577671">
 <map id="map1494523577671" name="map1494523577671"><area shape="rect" coords="1071.000081046875,981.0000200117188,1924.6667470468751,1172.6666860117189" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid002" target="_blank"><area shape="rect" coords="1243.000081046875,603.0000200117188,1954.6667470468751,738.6666860117189" title="" alt="" href="http://domasm.github.io/Topas4Info/How-Tos/#Vid006" target="_blank"></map>
 
@@ -50,7 +59,7 @@ permalink: /Migrate-From-WinTopas3/
 1. Administrator rights (for installation and first launch only)
 1. Topas control board with USB connection (LPT board is not supported)
 1. Topas/Orpheus device manufactured or serviced in 2011 or later ([contact Light Conversion for earlier devices](mailto:support@lightcon.com), as there might be conversion problems)
-1. It is recommended to use Topas4 software on the PC with internet connection, as it's in active development right now, with many fixes/improvements released every week (updates are automatic and non-intrusive)
+
 
 **Time required ~ 2 minutes**
 

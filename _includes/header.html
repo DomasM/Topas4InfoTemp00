@@ -1,22 +1,26 @@
 <aside>
-	<div class="container">
-		<nav>
-			<ul>
-				{% for page in site.pages %} {% if page.title %}
+    <div class="container">
+        <nav>
+            <ul>
+                {% for page in site.pages %} {% if page.title %}
                 {% unless page.nolink %}
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+                <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
                 {% endunless %}
-				{% endif %} 
+                {% endif %}
                 {% endfor %}
-				<li><a href="http://topas4api.lightcon.com/current/index.html?utm_source=Topas4InfoPage&utm_medium=TopMenu">API</a></li>
-			</ul>
-			</li>
-			</ul>
-		</nav>
-	</div>
+                <li><a href="http://topas4api.lightcon.com/current/index.html?utm_source=Topas4InfoPage&utm_medium=TopMenu">API</a></li>
+                <li>
+                    <a href='https://play.google.com/store/apps/details?id=com.LightConversion.WinTopas4&utm_source=topas4info&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height="41" alt='Get it on Google Play' src='https://lightconupdater.blob.core.windows.net/topas4infopage/Images/Migrate-From-WinTopas3/google-play-badge.png' /></a>
+                </li>
+                <li>
+                    <a href="https://itunes.apple.com/us/app/evernote/id281796108?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+                </li>
+            </ul>
+            </li>
+            </ul>
+        </nav>
+    </div>
 </aside>
-
 <header>
-	<h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+    <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
 </header>
- 
